@@ -19,6 +19,10 @@ export default function App() {
       .then(r => r.json())
       .then(setSummary)
       .catch(err => console.error(err));
+
+    fetch('/deals/b0e813de-4397-4397-aa41-844c747376bd')
+      .then(r => r.json())
+      .catch(err => console.error(err));
   }, []);
 
   return (
