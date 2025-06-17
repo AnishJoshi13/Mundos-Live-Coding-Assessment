@@ -1,0 +1,3002 @@
+[
+  {
+    "deal_id": "b0e813de-4397-4397-aa41-844c747376bd",
+    "continent": "Europe",
+    "announced": "2025-05-06T19:37:28.309Z",
+    "val_usd": 99638454
+  },
+  {
+    "deal_id": "eb2a0e40-b53f-49e8-9f09-05b3f4cb4efa",
+    "continent": "Asia",
+    "announced": "2025-02-12T05:28:41.445Z",
+    "valuation_usd": 59644920
+  },
+  {
+    "deal_id": "f3aea360-6ad4-4d52-bf28-a63893dceee2",
+    "continent": "SA",
+    "announced": "2024-07-18T09:50:05.936Z",
+    "price": 10898260
+  },
+  {
+    "deal_id": "dd433d36-ddcf-486a-bbcd-269a109d2478",
+    "continent": "SA",
+    "announced": "2024-10-01T14:32:05.132Z",
+    "price": 44062529
+  },
+  {
+    "deal_id": "7626bc8d-9ffa-4240-a17c-6f171fd21fb9",
+    "continent": "Asia",
+    "announced": "2024-11-03T19:21:51.940Z",
+    "val_usd": 59261583
+  },
+  {
+    "deal_id": "b92b4ca5-1b2d-46eb-982e-55a974520b3a",
+    "continent": "Asia",
+    "announced": "2024-10-01T18:07:00.296Z",
+    "valuation_usd": 32867899
+  },
+  {
+    "deal_id": "fc862e1b-8261-4af8-bc66-261269f5ad39",
+    "continent": "NA",
+    "announced": "2025-06-02T08:14:38.390Z",
+    "valuation_usd": 77362316
+  },
+  {
+    "deal_id": "e8ef5c50-3b72-449a-935c-4402fb04afad",
+    "continent": "Africa",
+    "announced": "2025-05-24T02:58:10.434Z",
+    "val_usd": 62839157
+  },
+  {
+    "deal_id": "9e8bc84e-c7ae-4b6c-8a7d-412f32c2e15e",
+    "continent": "Asia",
+    "announced": "2025-04-20T09:09:30.576Z",
+    "val_usd": 43369748
+  },
+  {
+    "deal_id": "2f3c9031-4a43-4041-947a-2cca237076ef",
+    "continent": "Oceania",
+    "announced": "2024-07-08T12:41:37.854Z",
+    "val_usd": 91472507
+  },
+  {
+    "deal_id": "c8242f82-fef5-4aaf-a90e-cd587b542236",
+    "continent": "NA",
+    "announced": "2024-12-11T02:47:46.385Z",
+    "valuation_usd": 6764025
+  },
+  {
+    "deal_id": "2453b942-a31a-41a2-9c07-75d880816d18",
+    "continent": "Asia",
+    "announced": "2024-10-16T09:48:13.215Z",
+    "valuation_usd": 80947843
+  },
+  {
+    "deal_id": "fbbb1c0f-c570-449a-9fc7-6f89ac939e3e",
+    "continent": "SA",
+    "announced": "2024-06-09T00:31:00.040Z",
+    "valuation_usd": 84340308
+  },
+  {
+    "deal_id": "c8ac4858-cc2c-46e5-993a-6371b0da1453",
+    "continent": "Africa",
+    "announced": "2024-08-15T21:04:14.605Z",
+    "val_usd": 67418892
+  },
+  {
+    "deal_id": "1657e957-a999-48d7-9d85-9aedc9784c4b",
+    "continent": "NA",
+    "announced": "2024-12-21T18:38:46.749Z",
+    "price": 15598421
+  },
+  {
+    "deal_id": "821aa659-f4fe-4366-8b85-a38c2726fa64",
+    "continent": "Africa",
+    "announced": "2025-05-10T21:52:50.703Z",
+    "valuation_usd": 85163183
+  },
+  {
+    "deal_id": "682c9cdf-7c7c-48f7-ac98-8329e9ec7036",
+    "continent": "SA",
+    "announced": "2024-12-28T23:00:17.143Z",
+    "val_usd": 99623955
+  },
+  {
+    "deal_id": "dbd7be90-0eff-4234-99b3-a467f640ab24",
+    "continent": "NA",
+    "announced": "2024-12-30T14:51:32.162Z",
+    "valuation_usd": 59228691
+  },
+  {
+    "deal_id": "2657ab29-4db4-4e0d-ad27-083e8f12a129",
+    "continent": "SA",
+    "announced": "2025-03-12T10:52:24.183Z",
+    "valuation_usd": 91806907
+  },
+  {
+    "deal_id": "6a038932-ac44-43e1-81ff-bcb75313ad0c",
+    "continent": "NA",
+    "announced": "2025-01-08T12:28:53.395Z",
+    "valuation_usd": 49522401
+  },
+  {
+    "deal_id": "e69b3eaf-727a-41f4-a515-81d745ba00c0",
+    "continent": "Europe",
+    "announced": "2025-05-19T22:47:30.716Z",
+    "val_usd": 66489524
+  },
+  {
+    "deal_id": "6b0fe267-0bec-49bd-b807-f53da0f364db",
+    "continent": "Oceania",
+    "announced": "2024-08-18T17:42:59.949Z",
+    "val_usd": 66694661
+  },
+  {
+    "deal_id": "db57f23e-7b8a-410a-ac7d-96c1470adfb8",
+    "continent": "Africa",
+    "announced": "2025-04-13T19:23:39.919Z",
+    "price": 11403408
+  },
+  {
+    "deal_id": "b08e700a-4e44-496a-83d9-4433b2bed346",
+    "continent": "NA",
+    "announced": "2024-11-22T01:06:10.501Z",
+    "valuation_usd": 74282257
+  },
+  {
+    "deal_id": "3574d548-6c44-4b5a-b758-c88135b7add7",
+    "continent": "NA",
+    "announced": "2025-01-08T15:43:41.773Z",
+    "price": 35902272
+  },
+  {
+    "deal_id": "b44b0115-8aa7-4883-bc82-3c5d59debb6b",
+    "continent": "SA",
+    "announced": "2025-03-09T16:32:01.723Z",
+    "price": 57487252
+  },
+  {
+    "deal_id": "8d62946f-6e62-4a5b-8121-ea67a6787d70",
+    "continent": "NA",
+    "announced": "2025-05-26T01:58:43.634Z",
+    "val_usd": 71803304
+  },
+  {
+    "deal_id": "cd949655-cb7e-4eea-9b41-78a44263ae98",
+    "continent": "Europe",
+    "announced": "2025-02-28T10:59:28.963Z",
+    "val_usd": 7753370
+  },
+  {
+    "deal_id": "82441cb6-ffa7-49cb-a6a1-fcd8bbd8edd5",
+    "continent": "Asia",
+    "announced": "2025-05-06T21:33:11.129Z",
+    "price": 20556077
+  },
+  {
+    "deal_id": "a2f7819f-8002-4f11-ac2d-5d43484a555b",
+    "continent": "Africa",
+    "announced": "2024-12-09T05:09:42.026Z",
+    "price": 5169360
+  },
+  {
+    "deal_id": "096c0472-7b48-477e-a2df-90083de765f6",
+    "continent": "Africa",
+    "announced": "2025-05-19T02:11:31.813Z",
+    "val_usd": 3177739
+  },
+  {
+    "deal_id": "c6314485-62d2-4d29-be23-fe1a8cc7d8f6",
+    "continent": "NA",
+    "announced": "2024-12-03T04:02:23.564Z",
+    "val_usd": 30156733
+  },
+  {
+    "deal_id": "186fe3c9-e863-468f-8bb0-5b846a96fc1e",
+    "continent": "Oceania",
+    "announced": "2024-08-22T08:19:34.661Z",
+    "val_usd": 85028742
+  },
+  {
+    "deal_id": "264960af-56c6-465f-8bad-a8494187a4c6",
+    "continent": "NA",
+    "announced": "2024-10-01T10:51:22.617Z",
+    "valuation_usd": 6727981
+  },
+  {
+    "deal_id": "5d0f1899-20cf-40df-98ee-bfdb80bbcb03",
+    "continent": "SA",
+    "announced": "2025-06-16T04:12:57.714Z",
+    "val_usd": 83418524
+  },
+  {
+    "deal_id": "5830eb75-614d-4536-9f4e-527fa4b78cef",
+    "continent": "NA",
+    "announced": "2024-10-16T23:19:00.956Z",
+    "val_usd": 8340141
+  },
+  {
+    "deal_id": "9ce697fb-427d-48d2-9756-839d16a0ea34",
+    "continent": "SA",
+    "announced": "2025-03-27T07:48:13.222Z",
+    "val_usd": 61221220
+  },
+  {
+    "deal_id": "b7b499c0-aa71-4966-ad29-38c847d622ce",
+    "continent": "Oceania",
+    "announced": "2024-11-06T06:32:05.422Z",
+    "valuation_usd": 35192119
+  },
+  {
+    "deal_id": "61474ba8-a92f-4898-8d95-977b231870d8",
+    "continent": "SA",
+    "announced": "2024-08-05T10:40:13.417Z",
+    "price": 38662210
+  },
+  {
+    "deal_id": "207c5315-bd86-4894-a012-609105ca688b",
+    "continent": "NA",
+    "announced": "2024-09-02T14:18:05.977Z",
+    "price": 11462132
+  },
+  {
+    "deal_id": "e02a4a44-7710-4929-a361-05a99e81b39b",
+    "continent": "Asia",
+    "announced": "2025-01-18T18:57:33.914Z",
+    "price": 72709616
+  },
+  {
+    "deal_id": "d0a9cc46-6442-4447-9a89-d08433798e7a",
+    "continent": "Oceania",
+    "announced": "2025-05-14T13:19:03.213Z",
+    "valuation_usd": 32680169
+  },
+  {
+    "deal_id": "6db41d10-8c96-4c42-b885-e830b268e0b4",
+    "continent": "Oceania",
+    "announced": "2024-09-14T14:25:59.843Z",
+    "price": 11816717
+  },
+  {
+    "deal_id": "b22149e3-830f-48f6-bb0b-fcb1f4765fa7",
+    "continent": "Asia",
+    "announced": "2025-03-18T00:10:08.537Z",
+    "valuation_usd": 53675880
+  },
+  {
+    "deal_id": "aa2aa24c-21fb-49c9-b308-730a3686550e",
+    "continent": "Asia",
+    "announced": "2024-09-17T10:48:41.997Z",
+    "valuation_usd": 68646511
+  },
+  {
+    "deal_id": "eae85660-2d5f-40e5-9b8f-401595ecee81",
+    "continent": "Oceania",
+    "announced": "2024-06-07T20:35:44.091Z",
+    "price": 63519442
+  },
+  {
+    "deal_id": "191c2b37-bb70-4476-8f63-5da923dee602",
+    "continent": "Africa",
+    "announced": "2024-12-25T14:34:47.517Z",
+    "price": 14327143
+  },
+  {
+    "deal_id": "00c6868f-7eea-4fe1-827e-dcb5b59cd56a",
+    "continent": "Africa",
+    "announced": "2025-01-23T14:09:37.006Z",
+    "val_usd": 14634556
+  },
+  {
+    "deal_id": "b34bf9e7-30a4-4212-a5dc-c76da897f66c",
+    "continent": "SA",
+    "announced": "2024-12-25T05:48:22.542Z",
+    "price": 23522406
+  },
+  {
+    "deal_id": "52ca9168-8d92-4233-b305-031a6dca25d1",
+    "continent": "SA",
+    "announced": "2024-12-31T22:07:33.775Z",
+    "val_usd": 89389141
+  },
+  {
+    "deal_id": "0f6c8c2b-dad0-486f-9172-82b151c586df",
+    "continent": "Europe",
+    "announced": "2024-07-05T15:10:38.448Z",
+    "val_usd": 89023395
+  },
+  {
+    "deal_id": "0ff1ee83-8ef8-491a-bc8e-4126fdf1c01a",
+    "continent": "Asia",
+    "announced": "2025-04-25T16:23:05.347Z",
+    "val_usd": 24117322
+  },
+  {
+    "deal_id": "23482290-062c-4d61-8916-4408507dc33c",
+    "continent": "Oceania",
+    "announced": "2025-01-02T06:14:41.726Z",
+    "valuation_usd": 19324230
+  },
+  {
+    "deal_id": "5856913c-03b4-4406-a2e5-4c9b10c98ac5",
+    "continent": "NA",
+    "announced": "2024-06-01T12:00:33.419Z",
+    "val_usd": 85779215
+  },
+  {
+    "deal_id": "3ff54c52-51b5-4836-9f78-1449aa0b8627",
+    "continent": "Europe",
+    "announced": "2025-04-13T09:09:46.423Z",
+    "valuation_usd": 63269069
+  },
+  {
+    "deal_id": "a82ec871-1253-47a2-a1a1-6f205eeda6d8",
+    "continent": "Asia",
+    "announced": "2024-05-30T05:43:20.425Z",
+    "price": 36256436
+  },
+  {
+    "deal_id": "1654ca5e-4730-4263-bf98-05c6a6d9e9d9",
+    "continent": "Europe",
+    "announced": "2024-06-09T07:45:55.362Z",
+    "price": 21030326
+  },
+  {
+    "deal_id": "b5d44ac8-bb93-47aa-a5a1-bf3349dc8586",
+    "continent": "NA",
+    "announced": "2024-12-07T23:27:16.614Z",
+    "price": 16359484
+  },
+  {
+    "deal_id": "3cb60e6d-f320-4333-acb6-e24f8430aad6",
+    "continent": "Africa",
+    "announced": "2025-06-01T01:27:06.076Z",
+    "valuation_usd": 53529152
+  },
+  {
+    "deal_id": "36f587b8-5125-4e59-9635-d700a7266dab",
+    "continent": "Africa",
+    "announced": "2024-08-28T16:47:33.005Z",
+    "valuation_usd": 6480506
+  },
+  {
+    "deal_id": "611a7ce3-4dc4-467a-8c51-f3a65baa6d03",
+    "continent": "Oceania",
+    "announced": "2024-11-19T16:17:17.448Z",
+    "valuation_usd": 74042541
+  },
+  {
+    "deal_id": "2e4d497d-b19f-4852-8ea2-22dea634c7a0",
+    "continent": "Europe",
+    "announced": "2024-10-10T07:39:58.973Z",
+    "val_usd": 79356889
+  },
+  {
+    "deal_id": "c248e2fa-d487-4406-9272-373a01e4712a",
+    "continent": "Asia",
+    "announced": "2024-11-22T13:48:50.567Z",
+    "valuation_usd": 2592529
+  },
+  {
+    "deal_id": "e77b1feb-b00e-4b7a-a74e-274aedd2ab6d",
+    "continent": "Africa",
+    "announced": "2024-05-17T18:59:57.702Z",
+    "price": 11909653
+  },
+  {
+    "deal_id": "91ee25a5-152e-4ef1-a9bc-79c0bafa9530",
+    "continent": "NA",
+    "announced": "2024-06-04T15:51:35.986Z",
+    "val_usd": 62086583
+  },
+  {
+    "deal_id": "02eb62b1-1688-45b1-bb8d-513b1834c9f6",
+    "continent": "NA",
+    "announced": "2024-12-08T14:29:41.105Z",
+    "price": 83961180
+  },
+  {
+    "deal_id": "12f08f76-178f-4930-a967-ac10b700e189",
+    "continent": "NA",
+    "announced": "2025-03-10T10:32:24.246Z",
+    "val_usd": 2222589
+  },
+  {
+    "deal_id": "095473dc-8c8d-48ba-9fcd-db8c64b98cbf",
+    "continent": "Europe",
+    "announced": "2024-07-22T06:57:35.290Z",
+    "valuation_usd": 7445167
+  },
+  {
+    "deal_id": "21904e74-5fef-4090-9afe-9c8ae9d39638",
+    "continent": "Africa",
+    "announced": "2025-04-07T21:41:50.380Z",
+    "price": 5840118
+  },
+  {
+    "deal_id": "8c87af03-9165-42c0-bcdd-e7e2adb1585a",
+    "continent": "Asia",
+    "announced": "2024-06-29T01:55:33.819Z",
+    "price": 38820399
+  },
+  {
+    "deal_id": "153d7918-5b6b-408c-b0d5-0a369a5b4df9",
+    "continent": "Asia",
+    "announced": "2025-06-04T08:22:09.757Z",
+    "val_usd": 57802905
+  },
+  {
+    "deal_id": "fe420939-b6cf-43ef-811f-d0b5f2a2751c",
+    "continent": "Africa",
+    "announced": "2025-02-23T13:30:39.611Z",
+    "valuation_usd": 25485635
+  },
+  {
+    "deal_id": "e4ecde91-bfe8-47b4-85c9-2476bef78a6a",
+    "continent": "Asia",
+    "announced": "2024-09-29T20:46:43.582Z",
+    "val_usd": 45738660
+  },
+  {
+    "deal_id": "cd452b8b-2a36-4d91-afae-6845e401f0e7",
+    "continent": "Oceania",
+    "announced": "2025-01-14T04:45:19.688Z",
+    "val_usd": 59854720
+  },
+  {
+    "deal_id": "6508b51a-657d-4a93-8121-5f6fc9779157",
+    "continent": "Oceania",
+    "announced": "2025-05-06T17:14:14.428Z",
+    "val_usd": 4193083
+  },
+  {
+    "deal_id": "b2b33c68-1575-43a7-9b0c-4ec760fde92e",
+    "continent": "Africa",
+    "announced": "2024-12-25T20:27:11.475Z",
+    "valuation_usd": 64776242
+  },
+  {
+    "deal_id": "22d0cc96-9bca-4341-b5c8-a4d99a2b048f",
+    "continent": "Asia",
+    "announced": "2024-07-08T09:30:52.480Z",
+    "valuation_usd": 10005120
+  },
+  {
+    "deal_id": "55274d9d-d074-4264-a0c9-02a8bc55d1b9",
+    "continent": "Europe",
+    "announced": "2025-01-06T09:27:42.110Z",
+    "price": 25392347
+  },
+  {
+    "deal_id": "acbf470d-cab4-42d6-8561-02086c56738c",
+    "continent": "Europe",
+    "announced": "2024-07-17T04:03:12.492Z",
+    "valuation_usd": 49216447
+  },
+  {
+    "deal_id": "b07c2f52-9e9f-465c-93cc-ca7d2a84a1db",
+    "continent": "Africa",
+    "announced": "2024-12-27T05:59:57.382Z",
+    "val_usd": 49345423
+  },
+  {
+    "deal_id": "16f830ca-9a5d-4479-bf25-3ceb3904e67f",
+    "continent": "Oceania",
+    "announced": "2024-05-14T00:08:49.623Z",
+    "price": 8409078
+  },
+  {
+    "deal_id": "c8e57156-bb79-47ae-a66c-005ebbb8877e",
+    "continent": "SA",
+    "announced": "2024-11-24T00:14:03.323Z",
+    "val_usd": 45536105
+  },
+  {
+    "deal_id": "a569fcf4-3d95-4bd1-bc64-bc511b09383d",
+    "continent": "SA",
+    "announced": "2024-09-27T02:21:09.612Z",
+    "val_usd": 84648591
+  },
+  {
+    "deal_id": "00156af7-6842-49b5-aef8-8d0b4e6bf5f6",
+    "continent": "Asia",
+    "announced": "2024-08-21T15:27:03.138Z",
+    "valuation_usd": 74066505
+  },
+  {
+    "deal_id": "82215985-b7dd-4ef1-af64-fe35d9e8861d",
+    "continent": "Oceania",
+    "announced": "2025-02-22T11:24:31.864Z",
+    "price": 83019403
+  },
+  {
+    "deal_id": "2b185876-0e2a-48d1-a03e-821920d0a7cd",
+    "continent": "Oceania",
+    "announced": "2025-01-24T04:33:03.233Z",
+    "price": 91777230
+  },
+  {
+    "deal_id": "0797e1a0-9a78-4280-a671-fb8612369df4",
+    "continent": "SA",
+    "announced": "2024-09-08T07:29:12.732Z",
+    "price": 3738324
+  },
+  {
+    "deal_id": "130fc81c-1cc2-4e67-917a-bb9ac5b08ffd",
+    "continent": "Oceania",
+    "announced": "2024-09-19T04:13:35.871Z",
+    "price": 64249066
+  },
+  {
+    "deal_id": "1af53929-612d-4dce-be78-5f053d08f7a5",
+    "continent": "Africa",
+    "announced": "2024-08-12T08:27:20.788Z",
+    "price": 66596988
+  },
+  {
+    "deal_id": "c086b73f-16eb-4147-a677-581cc344a72c",
+    "continent": "SA",
+    "announced": "2025-02-02T15:13:42.645Z",
+    "val_usd": 55053589
+  },
+  {
+    "deal_id": "c7312207-252e-46f4-96b5-15e4d295ab8a",
+    "continent": "Asia",
+    "announced": "2024-11-14T17:51:17.421Z",
+    "val_usd": 17222941
+  },
+  {
+    "deal_id": "24ef0987-d628-4610-82c7-97d8bb06c01c",
+    "continent": "NA",
+    "announced": "2024-06-08T00:35:21.136Z",
+    "val_usd": 4882621
+  },
+  {
+    "deal_id": "1ec5bf25-f31e-4d1d-a2ce-a9c988f3628c",
+    "continent": "Oceania",
+    "announced": "2025-02-21T03:45:30.026Z",
+    "val_usd": 65184154
+  },
+  {
+    "deal_id": "bd4f9b9d-912c-4c77-b7d8-af8e0f2da07f",
+    "continent": "Africa",
+    "announced": "2025-02-26T05:57:33.917Z",
+    "val_usd": 74639717
+  },
+  {
+    "deal_id": "86c4f0e8-efb8-4da2-a50b-8f28870173bb",
+    "continent": "SA",
+    "announced": "2024-08-22T23:22:01.558Z",
+    "valuation_usd": 94123672
+  },
+  {
+    "deal_id": "af094f24-6fbb-456e-ae57-4f8f0443c46b",
+    "continent": "Europe",
+    "announced": "2025-05-25T02:09:07.965Z",
+    "val_usd": 89365936
+  },
+  {
+    "deal_id": "6fe45cf3-1601-4194-b172-e2869b8510be",
+    "continent": "NA",
+    "announced": "2024-11-26T02:36:11.351Z",
+    "valuation_usd": 68301683
+  },
+  {
+    "deal_id": "5efe77eb-fdc8-4a09-9d0f-63c7d478c46e",
+    "continent": "SA",
+    "announced": "2024-11-09T01:37:06.051Z",
+    "price": 11459492
+  },
+  {
+    "deal_id": "3e2a8662-eafc-48fe-b936-bf5206262906",
+    "continent": "Oceania",
+    "announced": "2024-08-28T17:59:03.200Z",
+    "val_usd": 78657932
+  },
+  {
+    "deal_id": "80b746ea-021c-4bd9-9448-38d5f40ff134",
+    "continent": "Europe",
+    "announced": "2024-05-13T09:52:07.037Z",
+    "val_usd": 31118353
+  },
+  {
+    "deal_id": "9fdf90b2-39a9-4946-bb11-385e43bacf3b",
+    "continent": "Oceania",
+    "announced": "2024-08-02T04:50:49.539Z",
+    "valuation_usd": 33745292
+  },
+  {
+    "deal_id": "256e82ca-7b43-4745-acf5-9a1a6217c168",
+    "continent": "Europe",
+    "announced": "2024-11-17T14:01:24.204Z",
+    "valuation_usd": 79378148
+  },
+  {
+    "deal_id": "64cd97ce-236f-4dd4-bf98-39812f6bda61",
+    "continent": "Asia",
+    "announced": "2024-07-29T17:56:45.590Z",
+    "price": 10924366
+  },
+  {
+    "deal_id": "f10aaef0-3f3f-4ea1-ab56-85dea67dedae",
+    "continent": "Asia",
+    "announced": "2025-03-08T16:26:50.461Z",
+    "val_usd": 65469019
+  },
+  {
+    "deal_id": "30054fcf-1d88-4360-9660-33f8d81c705b",
+    "continent": "Africa",
+    "announced": "2024-09-30T11:33:43.996Z",
+    "price": 72349629
+  },
+  {
+    "deal_id": "e890ee19-f9ad-4d18-a4e4-305b0bcc0507",
+    "continent": "NA",
+    "announced": "2024-08-10T14:18:40.901Z",
+    "val_usd": 47399700
+  },
+  {
+    "deal_id": "8a147af4-b735-4330-b2e8-7e317cd48738",
+    "continent": "Asia",
+    "announced": "2025-01-23T03:54:37.382Z",
+    "valuation_usd": 87401028
+  },
+  {
+    "deal_id": "951899f0-32fa-4edb-b01c-4b2a8acf7524",
+    "continent": "Europe",
+    "announced": "2024-11-20T00:49:38.184Z",
+    "valuation_usd": 64548159
+  },
+  {
+    "deal_id": "c03087dd-e788-410b-bed8-660d8418827b",
+    "continent": "SA",
+    "announced": "2024-06-21T10:18:01.690Z",
+    "val_usd": 99211318
+  },
+  {
+    "deal_id": "340598b0-1c51-46e4-afda-1f68ed8ee9df",
+    "continent": "Asia",
+    "announced": "2024-06-08T21:34:25.082Z",
+    "price": 67449892
+  },
+  {
+    "deal_id": "3694a790-ef3e-457b-aba0-e7af80b90f4b",
+    "continent": "Africa",
+    "announced": "2025-04-07T22:48:26.404Z",
+    "val_usd": 5385359
+  },
+  {
+    "deal_id": "37ea536b-6bce-4731-9de9-ce6398997c0e",
+    "continent": "Europe",
+    "announced": "2025-02-07T06:59:23.832Z",
+    "price": 32842538
+  },
+  {
+    "deal_id": "79e72a07-b6a7-4e80-977d-a0df9e77217d",
+    "continent": "Europe",
+    "announced": "2025-05-06T00:22:43.595Z",
+    "valuation_usd": 93503152
+  },
+  {
+    "deal_id": "4e6d6692-97dc-4d06-af9f-17bbf4563cbd",
+    "continent": "SA",
+    "announced": "2025-02-18T05:01:24.465Z",
+    "valuation_usd": 70175016
+  },
+  {
+    "deal_id": "d9db839c-7058-4507-ad60-855e7ff22be3",
+    "continent": "Asia",
+    "announced": "2024-12-22T23:10:27.272Z",
+    "valuation_usd": 77907977
+  },
+  {
+    "deal_id": "32bbd67f-3b9d-4d5b-b997-9f30660a2533",
+    "continent": "Oceania",
+    "announced": "2024-06-18T17:11:35.791Z",
+    "val_usd": 59763803
+  },
+  {
+    "deal_id": "614a421d-0a69-4702-af8d-ad06dd6090e4",
+    "continent": "Europe",
+    "announced": "2025-01-09T17:23:54.014Z",
+    "price": 10358757
+  },
+  {
+    "deal_id": "a9d01ef0-8f3d-4bf6-b132-ef72a4b281a1",
+    "continent": "NA",
+    "announced": "2024-09-22T21:39:52.878Z",
+    "price": 86451076
+  },
+  {
+    "deal_id": "4bfa27aa-266b-4c42-b809-6f4f3cb9cb7a",
+    "continent": "Asia",
+    "announced": "2025-05-02T11:37:25.460Z",
+    "val_usd": 34554279
+  },
+  {
+    "deal_id": "79397922-5c39-4882-a0bd-742a76523e70",
+    "continent": "Asia",
+    "announced": "2025-03-02T17:37:11.612Z",
+    "price": 29474880
+  },
+  {
+    "deal_id": "39afec26-dfa5-4634-a294-7465b955879d",
+    "continent": "Africa",
+    "announced": "2025-05-16T06:47:11.142Z",
+    "valuation_usd": 13962893
+  },
+  {
+    "deal_id": "771617e5-a2da-4a18-8e98-c60a3a5c7472",
+    "continent": "SA",
+    "announced": "2024-06-10T11:02:15.355Z",
+    "price": 42564731
+  },
+  {
+    "deal_id": "d6641008-4f7b-44d8-91f8-d0bb56d52374",
+    "continent": "SA",
+    "announced": "2024-12-23T09:03:36.347Z",
+    "val_usd": 89775455
+  },
+  {
+    "deal_id": "512789f5-c563-48be-95c2-e6e9253348d5",
+    "continent": "NA",
+    "announced": "2025-02-13T20:18:06.600Z",
+    "valuation_usd": 89479572
+  },
+  {
+    "deal_id": "c27a3b08-1e2d-4bfd-8673-1faa0d0c70e9",
+    "continent": "Africa",
+    "announced": "2025-06-15T14:40:21.893Z",
+    "val_usd": 40796957
+  },
+  {
+    "deal_id": "df408da6-e4aa-4eaf-a071-24474771c1dc",
+    "continent": "SA",
+    "announced": "2024-07-31T18:54:51.167Z",
+    "price": 52714850
+  },
+  {
+    "deal_id": "f466eb13-e9bf-4c04-b6be-2d40e3773b78",
+    "continent": "Oceania",
+    "announced": "2024-10-13T02:16:08.663Z",
+    "val_usd": 37426094
+  },
+  {
+    "deal_id": "7b823e90-1a28-4705-aa1f-dff9da3fb5e9",
+    "continent": "Africa",
+    "announced": "2025-04-11T01:04:32.431Z",
+    "val_usd": 15371038
+  },
+  {
+    "deal_id": "461b923f-02b1-4db8-98c3-87aca516e79e",
+    "continent": "Oceania",
+    "announced": "2024-09-19T23:17:35.491Z",
+    "valuation_usd": 41986421
+  },
+  {
+    "deal_id": "41fa7f9a-4a37-4f3e-a5b2-56be8be58027",
+    "continent": "Africa",
+    "announced": "2024-11-06T13:52:12.376Z",
+    "price": 32446184
+  },
+  {
+    "deal_id": "483c3e2d-2ca2-4dda-a6de-3d7e1b792475",
+    "continent": "Oceania",
+    "announced": "2024-05-18T06:50:45.722Z",
+    "val_usd": 7535556
+  },
+  {
+    "deal_id": "46d26c9f-0b1e-408e-80dc-2071d7f6d3f7",
+    "continent": "Oceania",
+    "announced": "2025-03-12T10:15:51.938Z",
+    "val_usd": 83786366
+  },
+  {
+    "deal_id": "8878023b-d5a6-405b-a384-23cf2e332b3e",
+    "continent": "Asia",
+    "announced": "2024-08-18T07:17:25.748Z",
+    "valuation_usd": 30793264
+  },
+  {
+    "deal_id": "2c83bc2a-a7ae-458f-ac72-f680ddde1fab",
+    "continent": "SA",
+    "announced": "2025-05-07T07:58:15.993Z",
+    "val_usd": 83715262
+  },
+  {
+    "deal_id": "42fff913-edf5-4b68-8daf-0ab3bd744ff7",
+    "continent": "Oceania",
+    "announced": "2024-07-16T14:38:17.129Z",
+    "valuation_usd": 50003116
+  },
+  {
+    "deal_id": "bf8d8343-3cc5-488b-8c71-6a70fae8f951",
+    "continent": "Oceania",
+    "announced": "2024-07-09T21:52:31.281Z",
+    "price": 80268028
+  },
+  {
+    "deal_id": "25a1d0e3-4642-4751-b0d4-19a893106d34",
+    "continent": "Oceania",
+    "announced": "2025-01-31T03:05:49.753Z",
+    "price": 18493080
+  },
+  {
+    "deal_id": "be9d280b-1e58-41c0-9b15-68ed3623070e",
+    "continent": "Africa",
+    "announced": "2024-12-15T07:21:49.668Z",
+    "val_usd": 34190389
+  },
+  {
+    "deal_id": "87947b6b-43ba-4e55-890c-d40962cfa7f5",
+    "continent": "Europe",
+    "announced": "2025-02-02T04:54:35.309Z",
+    "valuation_usd": 62582673
+  },
+  {
+    "deal_id": "4ee8d334-8a81-478c-906a-564a7b827580",
+    "continent": "NA",
+    "announced": "2024-08-06T07:54:49.470Z",
+    "val_usd": 32487654
+  },
+  {
+    "deal_id": "7520f5b8-c7b6-41ed-a156-c26f6b47a484",
+    "continent": "SA",
+    "announced": "2024-05-27T04:44:34.397Z",
+    "valuation_usd": 81069652
+  },
+  {
+    "deal_id": "dbf10378-4395-4d31-8b83-5fae5317dff0",
+    "continent": "Europe",
+    "announced": "2025-02-08T18:34:59.969Z",
+    "valuation_usd": 25441235
+  },
+  {
+    "deal_id": "0e629c3c-3b8d-4f27-9ec5-1acd462e3c69",
+    "continent": "Oceania",
+    "announced": "2024-10-09T23:30:37.502Z",
+    "price": 17794361
+  },
+  {
+    "deal_id": "92660638-d34b-4aaa-9b14-a45f451c169b",
+    "continent": "Africa",
+    "announced": "2025-05-24T14:27:22.752Z",
+    "price": 86011459
+  },
+  {
+    "deal_id": "7705bc45-d72c-4386-9560-e61370eb7d66",
+    "continent": "Oceania",
+    "announced": "2024-10-01T01:25:27.564Z",
+    "val_usd": 67228715
+  },
+  {
+    "deal_id": "94d43dcc-88c7-4992-8185-4785336dfc60",
+    "continent": "Europe",
+    "announced": "2025-05-03T16:35:29.649Z",
+    "valuation_usd": 96588286
+  },
+  {
+    "deal_id": "1c0a5b0f-d8b5-496c-87cf-94f2f79d1f9d",
+    "continent": "NA",
+    "announced": "2025-04-20T21:17:59.628Z",
+    "val_usd": 49486211
+  },
+  {
+    "deal_id": "8f81bb17-5525-4874-9622-f99e614f70b6",
+    "continent": "Oceania",
+    "announced": "2025-02-25T10:06:23.661Z",
+    "val_usd": 34149739
+  },
+  {
+    "deal_id": "0a8b4164-eb3d-4172-9549-0195b42004bb",
+    "continent": "Asia",
+    "announced": "2024-10-03T14:54:03.448Z",
+    "valuation_usd": 2379849
+  },
+  {
+    "deal_id": "690e70c8-9db7-45ca-9764-9988c24181ed",
+    "continent": "SA",
+    "announced": "2025-06-01T05:51:27.485Z",
+    "valuation_usd": 52512877
+  },
+  {
+    "deal_id": "95d11cd5-030c-4266-bd27-4b573cd1408e",
+    "continent": "Asia",
+    "announced": "2024-12-13T12:23:12.533Z",
+    "val_usd": 91896733
+  },
+  {
+    "deal_id": "784113b7-012b-4ae6-a24e-f5907e2ae30f",
+    "continent": "Europe",
+    "announced": "2024-10-03T14:13:19.782Z",
+    "valuation_usd": 21762181
+  },
+  {
+    "deal_id": "4d09db80-5920-4fbc-9820-845b181eac4a",
+    "continent": "Oceania",
+    "announced": "2024-11-27T11:00:56.508Z",
+    "price": 76454165
+  },
+  {
+    "deal_id": "bee13e29-d36b-46e3-b675-082575c5032d",
+    "continent": "SA",
+    "announced": "2025-03-04T05:24:47.638Z",
+    "price": 89962214
+  },
+  {
+    "deal_id": "64e50747-3d33-44d6-ae16-29075667a595",
+    "continent": "Asia",
+    "announced": "2025-06-04T11:41:03.680Z",
+    "price": 10099423
+  },
+  {
+    "deal_id": "e1cdae62-d480-49ec-9096-5cbc8957fc07",
+    "continent": "Asia",
+    "announced": "2025-01-18T01:14:51.041Z",
+    "price": 86640341
+  },
+  {
+    "deal_id": "d91e6a23-bead-4fcf-9167-788a7d754f86",
+    "continent": "Oceania",
+    "announced": "2024-11-25T15:27:59.070Z",
+    "price": 69684706
+  },
+  {
+    "deal_id": "7ca03fd7-de4d-4a8c-9606-8a0c8b181dda",
+    "continent": "Asia",
+    "announced": "2025-05-20T06:14:50.279Z",
+    "val_usd": 62320573
+  },
+  {
+    "deal_id": "09a67640-e743-4484-abab-02c497ccc59d",
+    "continent": "NA",
+    "announced": "2024-06-13T19:47:09.990Z",
+    "valuation_usd": 82152958
+  },
+  {
+    "deal_id": "e3d6869a-4901-46ad-8182-7f9b69afc3c9",
+    "continent": "Asia",
+    "announced": "2025-01-21T00:48:36.277Z",
+    "price": 14836374
+  },
+  {
+    "deal_id": "3b5d1a4f-0e29-4f27-b1b9-fb50ca82360b",
+    "continent": "Europe",
+    "announced": "2024-11-10T06:40:57.084Z",
+    "price": 73435635
+  },
+  {
+    "deal_id": "0db4f549-b1e8-4159-a454-66a7eb349acf",
+    "continent": "Oceania",
+    "announced": "2024-09-11T12:31:42.522Z",
+    "valuation_usd": 26193080
+  },
+  {
+    "deal_id": "1923f5e6-4218-4bb6-9cd9-50fed774bd1e",
+    "continent": "Oceania",
+    "announced": "2024-08-08T01:16:38.722Z",
+    "price": 6240374
+  },
+  {
+    "deal_id": "da36b3cb-4ccb-41c6-910b-e69d0d74f03b",
+    "continent": "Europe",
+    "announced": "2025-01-22T14:29:02.050Z",
+    "valuation_usd": 40693183
+  },
+  {
+    "deal_id": "9286f17d-ded1-4478-92de-d1d400114865",
+    "continent": "Oceania",
+    "announced": "2024-06-12T08:14:30.264Z",
+    "val_usd": 27980476
+  },
+  {
+    "deal_id": "88341474-868f-4457-819a-ae308fbb3852",
+    "continent": "SA",
+    "announced": "2024-08-23T15:22:17.105Z",
+    "price": 11133608
+  },
+  {
+    "deal_id": "635a6bc0-9d10-468f-8435-3ce9a519d6d0",
+    "continent": "NA",
+    "announced": "2024-11-16T19:55:43.590Z",
+    "valuation_usd": 25644168
+  },
+  {
+    "deal_id": "1c9bbd63-0dd8-49a7-bdf1-b7c517c77c91",
+    "continent": "Oceania",
+    "announced": "2024-05-18T09:17:04.286Z",
+    "price": 30952479
+  },
+  {
+    "deal_id": "984fe0d8-eb11-4f26-8db6-d11c528e1a11",
+    "continent": "NA",
+    "announced": "2025-05-19T17:33:47.159Z",
+    "valuation_usd": 5644619
+  },
+  {
+    "deal_id": "bcca939f-b4b6-497a-ae93-417cd1a9d57b",
+    "continent": "Europe",
+    "announced": "2024-11-21T00:02:47.475Z",
+    "val_usd": 89881530
+  },
+  {
+    "deal_id": "17bc026a-69cf-4611-a797-973195f45ad9",
+    "continent": "Europe",
+    "announced": "2025-04-16T11:46:43.527Z",
+    "price": 78010265
+  },
+  {
+    "deal_id": "4725107b-4293-4d6b-a699-21cd5471b341",
+    "continent": "Asia",
+    "announced": "2025-04-05T21:55:05.968Z",
+    "val_usd": 17875196
+  },
+  {
+    "deal_id": "92bf8ece-e8ed-483e-a35d-fb03c967b29c",
+    "continent": "NA",
+    "announced": "2024-06-29T08:18:59.331Z",
+    "valuation_usd": 46857082
+  },
+  {
+    "deal_id": "27f64154-2ad6-4d51-9b5c-5ad3ed465eab",
+    "continent": "Africa",
+    "announced": "2025-02-05T01:46:35.051Z",
+    "price": 95774081
+  },
+  {
+    "deal_id": "5460372e-4480-4d57-bac5-079d60477e40",
+    "continent": "Europe",
+    "announced": "2025-05-25T06:33:02.244Z",
+    "price": 95968333
+  },
+  {
+    "deal_id": "50ae6ebd-de5e-40b3-b14f-22a4e94008b1",
+    "continent": "NA",
+    "announced": "2024-12-13T06:37:36.512Z",
+    "price": 53774902
+  },
+  {
+    "deal_id": "8998105d-0f35-4b61-843f-2bfc14a54107",
+    "continent": "Oceania",
+    "announced": "2025-03-21T09:02:50.970Z",
+    "valuation_usd": 39962451
+  },
+  {
+    "deal_id": "14518d16-dd59-41ed-9fef-1375c85569cf",
+    "continent": "NA",
+    "announced": "2025-05-04T13:55:34.660Z",
+    "valuation_usd": 12205671
+  },
+  {
+    "deal_id": "361bdb0b-9e41-4951-8b8c-86b427c71420",
+    "continent": "SA",
+    "announced": "2025-01-01T20:16:54.111Z",
+    "price": 33534222
+  },
+  {
+    "deal_id": "dd659925-3b0b-4a7b-a6c4-45cb0a06b6a3",
+    "continent": "SA",
+    "announced": "2024-11-22T10:45:13.351Z",
+    "price": 25049532
+  },
+  {
+    "deal_id": "9f31aad4-df78-41ed-b1ae-6df3ae7cf0ce",
+    "continent": "Europe",
+    "announced": "2024-11-13T18:06:45.108Z",
+    "val_usd": 69063565
+  },
+  {
+    "deal_id": "c79e3fd7-c514-47b8-96de-5d9b5ae7e2c2",
+    "continent": "Oceania",
+    "announced": "2025-05-27T15:53:33.517Z",
+    "valuation_usd": 74857821
+  },
+  {
+    "deal_id": "a9c7a41e-33a7-4f9e-9609-87760c4ddd68",
+    "continent": "Africa",
+    "announced": "2024-08-11T09:05:02.475Z",
+    "val_usd": 66976934
+  },
+  {
+    "deal_id": "5806bb87-37e3-4e84-a1ad-a3b6bd1f6780",
+    "continent": "SA",
+    "announced": "2025-01-16T06:15:50.517Z",
+    "val_usd": 32427252
+  },
+  {
+    "deal_id": "5c0d87de-2be2-4915-9c03-2b5791546592",
+    "continent": "Africa",
+    "announced": "2024-07-31T08:57:33.334Z",
+    "price": 46941959
+  },
+  {
+    "deal_id": "2039fe37-c3eb-45b6-aef8-9491bcf09b7e",
+    "continent": "Europe",
+    "announced": "2024-05-15T15:22:03.063Z",
+    "val_usd": 38898028
+  },
+  {
+    "deal_id": "ae7c8e31-d7d4-4c47-91f5-809384560d9e",
+    "continent": "Africa",
+    "announced": "2025-02-18T21:11:23.461Z",
+    "val_usd": 21219737
+  },
+  {
+    "deal_id": "debe8131-ed0b-47c0-bd22-651cb2e77b02",
+    "continent": "SA",
+    "announced": "2024-06-22T10:23:51.351Z",
+    "valuation_usd": 71314456
+  },
+  {
+    "deal_id": "d2e67dfe-7a13-4182-a089-2324fcb5c3b6",
+    "continent": "NA",
+    "announced": "2024-08-19T05:46:07.860Z",
+    "price": 43486495
+  },
+  {
+    "deal_id": "560a49de-7c29-4ce2-9e61-3d4770a9a1a0",
+    "continent": "Europe",
+    "announced": "2024-10-10T19:34:51.980Z",
+    "val_usd": 75087754
+  },
+  {
+    "deal_id": "569ffd64-f803-4f04-be11-d64572e5ca67",
+    "continent": "Oceania",
+    "announced": "2024-06-02T23:02:52.989Z",
+    "val_usd": 40722682
+  },
+  {
+    "deal_id": "309fabab-4554-4fd5-a40c-92fe2b64fe72",
+    "continent": "Oceania",
+    "announced": "2025-01-24T19:58:06.242Z",
+    "valuation_usd": 84283760
+  },
+  {
+    "deal_id": "b74836b0-7387-42ab-8d8a-b2138faaafc2",
+    "continent": "Africa",
+    "announced": "2025-01-11T18:09:41.376Z",
+    "val_usd": 6618666
+  },
+  {
+    "deal_id": "71b8e7a5-4be9-4f3b-9e23-4514149940e1",
+    "continent": "NA",
+    "announced": "2024-10-21T18:23:28.500Z",
+    "val_usd": 98075584
+  },
+  {
+    "deal_id": "31e93b86-175c-4514-8b7b-eb3e7df1b50a",
+    "continent": "Asia",
+    "announced": "2025-06-10T15:49:25.471Z",
+    "val_usd": 25297265
+  },
+  {
+    "deal_id": "97f57b8d-cc94-4ef2-97d0-f676ee7fa747",
+    "continent": "SA",
+    "announced": "2025-03-04T09:49:44.432Z",
+    "valuation_usd": 36899268
+  },
+  {
+    "deal_id": "944472ee-1b3f-4f25-9de9-c488211a9613",
+    "continent": "Asia",
+    "announced": "2024-09-27T21:25:15.620Z",
+    "val_usd": 90770905
+  },
+  {
+    "deal_id": "ad8f14b4-3d9d-4bd2-99e1-b1c3ab259694",
+    "continent": "Africa",
+    "announced": "2024-11-27T16:45:44.597Z",
+    "price": 31890053
+  },
+  {
+    "deal_id": "8fbcacb2-e6f3-4326-80c8-4315c0730ad5",
+    "continent": "Oceania",
+    "announced": "2025-05-19T03:14:09.466Z",
+    "price": 83247705
+  },
+  {
+    "deal_id": "47622ebb-fe90-46d1-b8ff-0f96b27c2bb1",
+    "continent": "Oceania",
+    "announced": "2024-07-31T19:05:38.000Z",
+    "valuation_usd": 53973793
+  },
+  {
+    "deal_id": "ce02d8ea-558c-4ff3-a881-a01bce5c966a",
+    "continent": "Asia",
+    "announced": "2025-05-05T12:30:00.786Z",
+    "valuation_usd": 60765723
+  },
+  {
+    "deal_id": "259c6ada-c35a-42fe-9e62-508e4791a02c",
+    "continent": "Europe",
+    "announced": "2024-11-11T09:55:53.523Z",
+    "price": 28060867
+  },
+  {
+    "deal_id": "0092dc1d-bd77-4cdb-ba83-efb06db74497",
+    "continent": "Oceania",
+    "announced": "2025-02-26T07:39:39.485Z",
+    "valuation_usd": 91034452
+  },
+  {
+    "deal_id": "6abb4e50-b5fe-48e9-b932-d497a532a9d7",
+    "continent": "Oceania",
+    "announced": "2025-05-23T06:53:03.796Z",
+    "val_usd": 46590326
+  },
+  {
+    "deal_id": "d60d4a67-d088-48e4-9da0-d8ff5fb568e5",
+    "continent": "Asia",
+    "announced": "2024-08-29T11:11:02.236Z",
+    "valuation_usd": 76156494
+  },
+  {
+    "deal_id": "a3c7e6ea-c69b-46cb-afbf-debddbc14ec1",
+    "continent": "Africa",
+    "announced": "2024-08-07T05:40:26.445Z",
+    "price": 10798790
+  },
+  {
+    "deal_id": "11179842-60f4-4f3d-8c0f-7cbe95607957",
+    "continent": "SA",
+    "announced": "2024-12-05T05:47:57.521Z",
+    "valuation_usd": 13542605
+  },
+  {
+    "deal_id": "ad8a0e28-cde2-4808-bf8f-cb5a4c91c6fe",
+    "continent": "NA",
+    "announced": "2024-12-05T20:23:05.793Z",
+    "val_usd": 76703378
+  },
+  {
+    "deal_id": "c9041fab-27ec-4357-bb12-b40926be7988",
+    "continent": "Oceania",
+    "announced": "2025-05-24T02:55:09.359Z",
+    "valuation_usd": 3763402
+  },
+  {
+    "deal_id": "f3d37f7f-b7e3-439b-a102-c8bc40b3d520",
+    "continent": "NA",
+    "announced": "2024-09-03T00:00:30.113Z",
+    "val_usd": 98695757
+  },
+  {
+    "deal_id": "7878186f-90b2-4a08-8cd4-65e3355a0611",
+    "continent": "Asia",
+    "announced": "2025-06-04T01:03:59.836Z",
+    "val_usd": 5642020
+  },
+  {
+    "deal_id": "f7d87b4e-56cf-4e4a-a50c-7327c94d147a",
+    "continent": "NA",
+    "announced": "2025-05-02T11:58:17.640Z",
+    "valuation_usd": 67095262
+  },
+  {
+    "deal_id": "f872210d-2bb1-404f-b937-8a233076fb85",
+    "continent": "Africa",
+    "announced": "2025-02-28T20:56:16.745Z",
+    "val_usd": 46729782
+  },
+  {
+    "deal_id": "bbcd4b6c-4fc1-46a1-af5f-425d3826a53f",
+    "continent": "Europe",
+    "announced": "2025-03-16T13:19:35.591Z",
+    "price": 52599322
+  },
+  {
+    "deal_id": "90354f71-294d-4114-8d35-a6ea9e2b2c51",
+    "continent": "Oceania",
+    "announced": "2024-07-02T05:13:13.764Z",
+    "val_usd": 83397476
+  },
+  {
+    "deal_id": "39b2b1c2-1af9-4159-8311-1b1833065059",
+    "continent": "NA",
+    "announced": "2024-06-12T19:34:31.031Z",
+    "val_usd": 77923431
+  },
+  {
+    "deal_id": "4c61219f-b23e-443f-a5a7-b5b210f043d5",
+    "continent": "NA",
+    "announced": "2025-02-22T04:08:16.884Z",
+    "valuation_usd": 80768510
+  },
+  {
+    "deal_id": "057ea454-a03c-4b5b-b1a7-042dff4ea0d7",
+    "continent": "Asia",
+    "announced": "2024-09-21T23:04:05.659Z",
+    "valuation_usd": 71308271
+  },
+  {
+    "deal_id": "18e435e2-7fcf-41eb-a2e3-58df1e525f60",
+    "continent": "Europe",
+    "announced": "2024-08-05T23:09:33.489Z",
+    "val_usd": 1121112
+  },
+  {
+    "deal_id": "e1c52d95-adb6-42e7-a014-b9fa669fbbed",
+    "continent": "Europe",
+    "announced": "2025-01-11T05:25:08.227Z",
+    "valuation_usd": 43435747
+  },
+  {
+    "deal_id": "fc1a8198-4f30-478b-aa4c-aa28ecca3bdf",
+    "continent": "Africa",
+    "announced": "2025-02-05T07:23:41.965Z",
+    "valuation_usd": 56774646
+  },
+  {
+    "deal_id": "ddee2dab-2e97-4636-9816-06296ed448a8",
+    "continent": "NA",
+    "announced": "2024-11-17T22:44:37.479Z",
+    "val_usd": 11333432
+  },
+  {
+    "deal_id": "65d09075-d1ef-4e29-a870-9cc18ccfddc9",
+    "continent": "Asia",
+    "announced": "2024-06-06T12:48:15.966Z",
+    "price": 87406611
+  },
+  {
+    "deal_id": "6f909684-1b74-4fe4-8830-7a5dd00a8a50",
+    "continent": "Africa",
+    "announced": "2025-01-14T01:39:36.967Z",
+    "val_usd": 18776108
+  },
+  {
+    "deal_id": "5c662397-9267-439d-8038-f0cd3475c8a7",
+    "continent": "Oceania",
+    "announced": "2025-04-07T10:26:17.899Z",
+    "valuation_usd": 51377073
+  },
+  {
+    "deal_id": "b7f6adba-0b85-4f87-9f29-34ae23e2f1c1",
+    "continent": "Oceania",
+    "announced": "2024-12-07T11:18:03.842Z",
+    "valuation_usd": 21685942
+  },
+  {
+    "deal_id": "c03642b4-ad16-4a97-90ee-487464c18ced",
+    "continent": "Europe",
+    "announced": "2024-06-05T01:37:18.764Z",
+    "val_usd": 31421237
+  },
+  {
+    "deal_id": "bbe6f77d-ae84-478a-b534-28ccc6d3cab5",
+    "continent": "Oceania",
+    "announced": "2024-08-20T19:21:29.044Z",
+    "price": 16065509
+  },
+  {
+    "deal_id": "36a2132d-6aab-4ebb-a1b6-3d471670f9c2",
+    "continent": "Europe",
+    "announced": "2024-07-22T08:23:36.379Z",
+    "price": 51027322
+  },
+  {
+    "deal_id": "8656edc8-df8e-4a70-ad79-7764f5d79db4",
+    "continent": "NA",
+    "announced": "2024-12-04T12:42:49.377Z",
+    "val_usd": 40122726
+  },
+  {
+    "deal_id": "293ecc24-f8fd-4387-8c59-dc76bb138251",
+    "continent": "Oceania",
+    "announced": "2024-11-14T23:30:43.778Z",
+    "price": 72232645
+  },
+  {
+    "deal_id": "f8f13cb5-bb0f-40e8-8799-0d2bc3b585a3",
+    "continent": "NA",
+    "announced": "2025-05-09T23:53:36.806Z",
+    "valuation_usd": 7011433
+  },
+  {
+    "deal_id": "f6ad190e-31e6-4c25-b41a-0dd87b9a31b2",
+    "continent": "NA",
+    "announced": "2024-06-14T12:42:10.775Z",
+    "price": 48662324
+  },
+  {
+    "deal_id": "edaba0cf-7b33-483e-bc15-b9c5043bd92e",
+    "continent": "Oceania",
+    "announced": "2025-01-16T12:53:23.546Z",
+    "price": 62248337
+  },
+  {
+    "deal_id": "009982e9-847e-4c32-a89d-b10b103c5726",
+    "continent": "SA",
+    "announced": "2024-08-17T03:57:46.863Z",
+    "valuation_usd": 1603592
+  },
+  {
+    "deal_id": "ef16ef75-f5a7-46f0-8684-70724989ecea",
+    "continent": "Africa",
+    "announced": "2024-12-29T04:13:45.435Z",
+    "val_usd": 60283264
+  },
+  {
+    "deal_id": "a0e4cf08-d067-4618-b699-812cb2544468",
+    "continent": "NA",
+    "announced": "2025-05-11T08:16:15.201Z",
+    "val_usd": 68567141
+  },
+  {
+    "deal_id": "158e7c47-413c-4001-ba83-37aaddae96c0",
+    "continent": "SA",
+    "announced": "2025-03-08T20:08:42.942Z",
+    "val_usd": 81738332
+  },
+  {
+    "deal_id": "d7ebd5ce-5a95-4c8e-8356-c21263f7a852",
+    "continent": "Europe",
+    "announced": "2024-09-01T05:08:40.734Z",
+    "valuation_usd": 72415975
+  },
+  {
+    "deal_id": "59b66591-1b92-4944-a25c-795d25870c2b",
+    "continent": "Europe",
+    "announced": "2024-09-24T03:07:55.242Z",
+    "val_usd": 62304669
+  },
+  {
+    "deal_id": "33aa0920-34cb-40ea-892d-9c8ef29e30eb",
+    "continent": "Asia",
+    "announced": "2024-12-17T17:38:08.642Z",
+    "val_usd": 37536240
+  },
+  {
+    "deal_id": "616ca410-a683-435c-84ab-517933db888e",
+    "continent": "Africa",
+    "announced": "2025-04-24T02:50:50.068Z",
+    "valuation_usd": 33626803
+  },
+  {
+    "deal_id": "462f5f91-a575-47d4-b812-d739a02f5db5",
+    "continent": "Africa",
+    "announced": "2024-10-22T19:08:55.383Z",
+    "val_usd": 98330526
+  },
+  {
+    "deal_id": "9c68df49-e230-474d-ad1f-d627400596e5",
+    "continent": "Asia",
+    "announced": "2024-10-03T01:14:19.884Z",
+    "valuation_usd": 16240688
+  },
+  {
+    "deal_id": "c6632878-694b-45fd-aece-d655b621b529",
+    "continent": "Africa",
+    "announced": "2025-04-30T22:23:58.038Z",
+    "valuation_usd": 62937538
+  },
+  {
+    "deal_id": "7e82e42a-d32f-4c1f-b548-ad3af8296ff0",
+    "continent": "SA",
+    "announced": "2025-03-28T00:36:57.173Z",
+    "price": 4163942
+  },
+  {
+    "deal_id": "7829b766-f6ae-43ee-a8eb-d3e4427f0aef",
+    "continent": "SA",
+    "announced": "2024-09-28T12:46:42.752Z",
+    "val_usd": 28745806
+  },
+  {
+    "deal_id": "6f865863-88cd-413d-b9dd-100c194048fb",
+    "continent": "Africa",
+    "announced": "2024-10-09T01:29:38.917Z",
+    "valuation_usd": 79416222
+  },
+  {
+    "deal_id": "5670bd30-bb52-4956-8db8-08dc1ae748ac",
+    "continent": "Europe",
+    "announced": "2025-06-08T09:49:52.335Z",
+    "valuation_usd": 81386352
+  },
+  {
+    "deal_id": "5db4fdfd-e28e-442d-991d-cf29b7f79965",
+    "continent": "Oceania",
+    "announced": "2025-01-06T01:01:52.821Z",
+    "valuation_usd": 38525792
+  },
+  {
+    "deal_id": "e7466fb2-a3ad-4585-96cb-2469306ca4c4",
+    "continent": "Asia",
+    "announced": "2025-01-15T18:26:48.927Z",
+    "price": 1401388
+  },
+  {
+    "deal_id": "64a69643-b6bc-420a-ab08-cfbd7517345f",
+    "continent": "Africa",
+    "announced": "2024-08-07T17:30:45.895Z",
+    "valuation_usd": 12739471
+  },
+  {
+    "deal_id": "9bc515ce-3716-491e-b548-8fd2c5d87a2c",
+    "continent": "Asia",
+    "announced": "2024-06-03T10:57:08.782Z",
+    "val_usd": 25308901
+  },
+  {
+    "deal_id": "9c11c204-4ee0-4bcd-b2e0-6f5cbb4c61a3",
+    "continent": "NA",
+    "announced": "2024-10-16T07:41:12.190Z",
+    "val_usd": 30856457
+  },
+  {
+    "deal_id": "b01e7842-91f1-459e-804e-9f3ba0f9b709",
+    "continent": "NA",
+    "announced": "2025-05-10T03:34:51.087Z",
+    "valuation_usd": 59673100
+  },
+  {
+    "deal_id": "87891573-2527-4c1e-bbc8-58ecbb0371cf",
+    "continent": "Asia",
+    "announced": "2024-11-25T00:43:33.398Z",
+    "valuation_usd": 81994835
+  },
+  {
+    "deal_id": "3100b288-e8a3-4649-8e02-57cafd5ef56f",
+    "continent": "Oceania",
+    "announced": "2025-03-04T14:47:30.999Z",
+    "val_usd": 28258921
+  },
+  {
+    "deal_id": "2f8b2c59-3f27-4289-84e7-59a18ea7e437",
+    "continent": "Oceania",
+    "announced": "2025-04-06T07:46:01.736Z",
+    "val_usd": 5961724
+  },
+  {
+    "deal_id": "b3a865f9-9cb0-469c-a30d-6c2f4c116742",
+    "continent": "Europe",
+    "announced": "2024-08-13T21:31:27.291Z",
+    "valuation_usd": 87073097
+  },
+  {
+    "deal_id": "f518cb2e-eaef-4ec4-b5b3-d33f8ff37005",
+    "continent": "Oceania",
+    "announced": "2025-04-15T12:28:06.015Z",
+    "val_usd": 61739978
+  },
+  {
+    "deal_id": "c853f7be-a51a-49c4-8bfa-fefa6f870d5b",
+    "continent": "Asia",
+    "announced": "2024-06-14T16:28:53.986Z",
+    "val_usd": 24602093
+  },
+  {
+    "deal_id": "cc5e6b2f-c147-4b67-b49a-4238d209a4f9",
+    "continent": "Africa",
+    "announced": "2024-12-06T03:47:47.067Z",
+    "val_usd": 93198354
+  },
+  {
+    "deal_id": "5f38a4b8-c00b-4f6c-b56a-a5c584f1017d",
+    "continent": "Africa",
+    "announced": "2025-02-08T23:47:57.221Z",
+    "val_usd": 18789212
+  },
+  {
+    "deal_id": "0944ffc0-9d0f-46c0-b1b2-f0bedc05c845",
+    "continent": "Africa",
+    "announced": "2024-12-28T05:19:16.614Z",
+    "val_usd": 25262221
+  },
+  {
+    "deal_id": "370fd8a4-6b3b-4e5a-8876-4bd54a603f51",
+    "continent": "SA",
+    "announced": "2024-11-07T15:43:37.935Z",
+    "val_usd": 74599345
+  },
+  {
+    "deal_id": "cecff65d-8bef-4607-9067-c30a441fdc88",
+    "continent": "Africa",
+    "announced": "2024-09-27T09:58:11.565Z",
+    "price": 48365914
+  },
+  {
+    "deal_id": "acd87323-1e6b-46c1-96d6-6fa00506a5ab",
+    "continent": "Asia",
+    "announced": "2024-06-04T14:20:49.030Z",
+    "val_usd": 1955447
+  },
+  {
+    "deal_id": "de623415-5465-4b3a-99f3-d6423d4448db",
+    "continent": "Europe",
+    "announced": "2024-06-16T23:54:45.512Z",
+    "val_usd": 67967052
+  },
+  {
+    "deal_id": "629d3bce-00c7-4305-8527-0c88e1af335a",
+    "continent": "Oceania",
+    "announced": "2025-03-22T07:02:01.850Z",
+    "price": 16929094
+  },
+  {
+    "deal_id": "301217fe-1db7-411a-b6c3-423a982065ea",
+    "continent": "NA",
+    "announced": "2024-11-27T06:26:06.575Z",
+    "valuation_usd": 71076027
+  },
+  {
+    "deal_id": "72123b70-ece1-4548-a39d-cb47ed8f9679",
+    "continent": "NA",
+    "announced": "2025-04-16T17:23:54.614Z",
+    "price": 75644390
+  },
+  {
+    "deal_id": "b99305d0-da60-47ca-9495-b560bb8e9803",
+    "continent": "Oceania",
+    "announced": "2025-03-03T17:54:20.290Z",
+    "price": 45300477
+  },
+  {
+    "deal_id": "7f3c6a1a-fd7c-4245-a818-7f1ac5f1f2ba",
+    "continent": "Africa",
+    "announced": "2025-06-16T07:06:45.003Z",
+    "price": 15704322
+  },
+  {
+    "deal_id": "d22ec883-93dd-4b86-a4c9-9b3044234513",
+    "continent": "Asia",
+    "announced": "2024-11-13T16:05:00.025Z",
+    "val_usd": 2039067
+  },
+  {
+    "deal_id": "cd60373e-f2c4-46eb-8ca9-1ca0b41f18ba",
+    "continent": "Africa",
+    "announced": "2024-05-18T19:18:38.443Z",
+    "val_usd": 95698631
+  },
+  {
+    "deal_id": "c029ee9b-93c6-4042-9c92-5213ce082252",
+    "continent": "NA",
+    "announced": "2025-04-28T00:20:54.987Z",
+    "valuation_usd": 84676213
+  },
+  {
+    "deal_id": "16546f70-5774-46be-9799-3997196332e4",
+    "continent": "NA",
+    "announced": "2024-07-11T00:52:01.305Z",
+    "valuation_usd": 67130290
+  },
+  {
+    "deal_id": "b96d0fcf-cb49-48d1-8ae5-f3aff25b1d7a",
+    "continent": "NA",
+    "announced": "2025-05-12T10:44:39.662Z",
+    "val_usd": 67546642
+  },
+  {
+    "deal_id": "fae6a8ef-fa86-41e1-a858-f51598ac375e",
+    "continent": "Europe",
+    "announced": "2024-12-07T21:08:11.533Z",
+    "valuation_usd": 84944507
+  },
+  {
+    "deal_id": "31c75d1c-561c-47f4-aced-ec017fc7213a",
+    "continent": "Europe",
+    "announced": "2025-05-26T12:00:07.051Z",
+    "valuation_usd": 40564233
+  },
+  {
+    "deal_id": "ab8b2cc5-2bfb-4791-8b5c-8d136467c080",
+    "continent": "Africa",
+    "announced": "2024-10-26T06:01:59.053Z",
+    "price": 46739137
+  },
+  {
+    "deal_id": "f67a3dad-b92d-424e-b7b5-933ad7417571",
+    "continent": "Europe",
+    "announced": "2024-11-08T23:38:25.254Z",
+    "valuation_usd": 11926282
+  },
+  {
+    "deal_id": "5d25ad2a-9c23-4ab2-ac14-69f18144cfe8",
+    "continent": "Africa",
+    "announced": "2024-07-22T09:57:28.001Z",
+    "valuation_usd": 20390122
+  },
+  {
+    "deal_id": "43b8d024-8cca-44af-928e-ab2b103ea59c",
+    "continent": "SA",
+    "announced": "2024-11-20T18:35:12.422Z",
+    "valuation_usd": 61394857
+  },
+  {
+    "deal_id": "69a25e76-87b1-4613-bfa6-5211dcb5eb1e",
+    "continent": "Asia",
+    "announced": "2024-08-11T11:31:47.378Z",
+    "price": 98249192
+  },
+  {
+    "deal_id": "8693731e-a1c3-47e6-96ab-9031f22ef57b",
+    "continent": "Oceania",
+    "announced": "2024-09-10T00:11:22.763Z",
+    "price": 12410778
+  },
+  {
+    "deal_id": "81b097f6-75aa-42d4-8825-a8be3561a335",
+    "continent": "SA",
+    "announced": "2024-10-02T18:06:27.783Z",
+    "valuation_usd": 70937688
+  },
+  {
+    "deal_id": "f4c51b63-c679-4079-a235-4571fad07958",
+    "continent": "Oceania",
+    "announced": "2024-12-25T17:53:17.453Z",
+    "val_usd": 94407923
+  },
+  {
+    "deal_id": "2ff74662-169a-44b8-9aee-155d781a4f7f",
+    "continent": "Europe",
+    "announced": "2025-03-25T13:17:47.923Z",
+    "price": 73368155
+  },
+  {
+    "deal_id": "19b93ff3-d54c-452e-a270-9b1f96f3797a",
+    "continent": "SA",
+    "announced": "2025-06-07T01:36:17.633Z",
+    "valuation_usd": 9385065
+  },
+  {
+    "deal_id": "40f3493a-5c07-48ab-8430-ec464227fbc8",
+    "continent": "Europe",
+    "announced": "2024-06-18T03:09:18.419Z",
+    "val_usd": 96962788
+  },
+  {
+    "deal_id": "d0390185-92aa-4809-9431-cbce6bbff3c0",
+    "continent": "SA",
+    "announced": "2024-07-19T07:32:56.487Z",
+    "val_usd": 44938069
+  },
+  {
+    "deal_id": "557ebc72-adcc-44dc-aa16-e12c397304df",
+    "continent": "Oceania",
+    "announced": "2024-05-19T19:59:24.653Z",
+    "val_usd": 63187433
+  },
+  {
+    "deal_id": "9b4d830c-d0a4-4b95-8b32-666454e862fe",
+    "continent": "Africa",
+    "announced": "2025-03-04T20:58:29.780Z",
+    "val_usd": 90426357
+  },
+  {
+    "deal_id": "064a0722-e9cb-48ab-a73f-15bc36701472",
+    "continent": "Africa",
+    "announced": "2024-11-29T18:28:47.128Z",
+    "price": 57318983
+  },
+  {
+    "deal_id": "debb2823-a565-4528-8183-d2a30bcc3f8f",
+    "continent": "Europe",
+    "announced": "2024-09-22T18:28:27.429Z",
+    "price": 58063429
+  },
+  {
+    "deal_id": "58325ef5-3a64-42f7-82cc-f0e2f2aaccb7",
+    "continent": "Asia",
+    "announced": "2025-04-10T12:58:54.916Z",
+    "val_usd": 46296033
+  },
+  {
+    "deal_id": "a3ffad83-833b-4322-9254-61f30d499de5",
+    "continent": "SA",
+    "announced": "2024-05-17T21:04:12.726Z",
+    "valuation_usd": 63980922
+  },
+  {
+    "deal_id": "c8ef3a10-4ca3-4761-bd5f-fac9c05fbc72",
+    "continent": "Africa",
+    "announced": "2025-05-29T14:27:16.218Z",
+    "price": 37479122
+  },
+  {
+    "deal_id": "c00e318c-24bc-4b8a-addc-08d475c31cd6",
+    "continent": "Oceania",
+    "announced": "2024-12-25T16:51:32.819Z",
+    "valuation_usd": 92990802
+  },
+  {
+    "deal_id": "daf5cd2c-b6ae-404c-81a2-7ea58fd135cb",
+    "continent": "Asia",
+    "announced": "2025-03-14T02:34:21.018Z",
+    "valuation_usd": 88041743
+  },
+  {
+    "deal_id": "60589b16-15e7-477a-ab54-348cbedec3fb",
+    "continent": "Asia",
+    "announced": "2024-08-01T20:39:02.824Z",
+    "price": 84584688
+  },
+  {
+    "deal_id": "5357fe4c-282b-4817-bd15-8aa05f612d00",
+    "continent": "Africa",
+    "announced": "2024-07-06T17:46:34.720Z",
+    "val_usd": 2886540
+  },
+  {
+    "deal_id": "623d5948-76d9-4f3a-aafd-f0fc4ca134f9",
+    "continent": "Asia",
+    "announced": "2025-03-25T18:22:58.866Z",
+    "val_usd": 36647358
+  },
+  {
+    "deal_id": "b395b7c5-cc97-45b6-89a9-e29aeecb1c2d",
+    "continent": "Asia",
+    "announced": "2025-01-08T21:34:58.423Z",
+    "price": 63790663
+  },
+  {
+    "deal_id": "3b82a1ca-85f5-455a-b5a4-96763cffd64b",
+    "continent": "Oceania",
+    "announced": "2025-05-12T20:07:31.842Z",
+    "price": 85114280
+  },
+  {
+    "deal_id": "cc845bef-af3a-4010-a464-502b75148766",
+    "continent": "Asia",
+    "announced": "2024-08-20T06:14:43.238Z",
+    "price": 59015969
+  },
+  {
+    "deal_id": "2873541f-abac-48e6-b825-2f66e6de1160",
+    "continent": "Europe",
+    "announced": "2025-04-12T08:51:55.190Z",
+    "val_usd": 52406928
+  },
+  {
+    "deal_id": "d251b34f-615e-4813-9c71-a4419214ba78",
+    "continent": "Oceania",
+    "announced": "2025-01-02T20:30:38.030Z",
+    "price": 23155402
+  },
+  {
+    "deal_id": "a66537f8-8f73-4758-aa2a-767e29ef52b5",
+    "continent": "NA",
+    "announced": "2025-03-14T22:08:04.349Z",
+    "valuation_usd": 46961727
+  },
+  {
+    "deal_id": "7971fa9c-8117-4288-83f2-d455ea10898f",
+    "continent": "Oceania",
+    "announced": "2025-03-14T07:25:08.255Z",
+    "price": 18002678
+  },
+  {
+    "deal_id": "668a65bb-0667-455e-b5f7-00cf57ce0a0e",
+    "continent": "Asia",
+    "announced": "2025-02-25T13:26:19.774Z",
+    "valuation_usd": 86978884
+  },
+  {
+    "deal_id": "75609bd2-6601-4482-ae54-9a4f10a6a0e9",
+    "continent": "Africa",
+    "announced": "2024-10-15T06:06:49.195Z",
+    "val_usd": 32844785
+  },
+  {
+    "deal_id": "f4eb5818-5e7f-4ffa-9175-cac4b754f162",
+    "continent": "Europe",
+    "announced": "2025-01-15T22:45:53.802Z",
+    "val_usd": 54738832
+  },
+  {
+    "deal_id": "52e422cf-95d0-469c-92e0-f34aa1f145ba",
+    "continent": "SA",
+    "announced": "2024-09-29T07:57:07.208Z",
+    "price": 25007665
+  },
+  {
+    "deal_id": "72a6de65-6d61-4927-b0c0-b68369f6c539",
+    "continent": "Asia",
+    "announced": "2024-10-08T19:35:04.104Z",
+    "price": 20906808
+  },
+  {
+    "deal_id": "f4c8b23b-fa23-4aa4-a844-6aabef28d667",
+    "continent": "Asia",
+    "announced": "2025-01-20T23:41:26.785Z",
+    "valuation_usd": 88099887
+  },
+  {
+    "deal_id": "1033de48-0f76-4ec0-8de8-aceda8a07e6f",
+    "continent": "Europe",
+    "announced": "2025-05-16T19:31:57.454Z",
+    "valuation_usd": 88870222
+  },
+  {
+    "deal_id": "5b7e7b27-3567-46e5-b693-d7e2c4ca9f61",
+    "continent": "Europe",
+    "announced": "2024-11-29T03:28:23.396Z",
+    "valuation_usd": 61559585
+  },
+  {
+    "deal_id": "85c735ee-51c8-49d1-a203-c8dc8e78a3bc",
+    "continent": "NA",
+    "announced": "2025-05-24T23:31:38.765Z",
+    "valuation_usd": 59046068
+  },
+  {
+    "deal_id": "7d9113b4-acc1-4d41-8c14-0db0cdc24a72",
+    "continent": "Africa",
+    "announced": "2025-04-18T20:04:26.506Z",
+    "valuation_usd": 74916129
+  },
+  {
+    "deal_id": "43045f3d-c211-46ce-b95a-cc560586e12d",
+    "continent": "SA",
+    "announced": "2025-01-06T20:26:33.959Z",
+    "valuation_usd": 37573200
+  },
+  {
+    "deal_id": "0861e39a-91f7-40c6-a8b7-046f9348da26",
+    "continent": "Africa",
+    "announced": "2025-04-06T06:22:27.473Z",
+    "val_usd": 68768451
+  },
+  {
+    "deal_id": "cad4ce97-00e5-476d-8dcc-5937524d2f53",
+    "continent": "Oceania",
+    "announced": "2024-06-19T19:45:13.693Z",
+    "valuation_usd": 36025782
+  },
+  {
+    "deal_id": "b54481a0-9248-4390-8b24-c07a052c8981",
+    "continent": "Oceania",
+    "announced": "2024-10-23T08:59:02.977Z",
+    "price": 23020395
+  },
+  {
+    "deal_id": "c75dccac-0aa2-4730-9aeb-e144a5dfe0f6",
+    "continent": "Africa",
+    "announced": "2025-03-20T00:10:31.695Z",
+    "valuation_usd": 86942431
+  },
+  {
+    "deal_id": "2e80dc11-25c1-479d-b00c-5a50d550f406",
+    "continent": "Europe",
+    "announced": "2025-03-03T19:36:33.521Z",
+    "valuation_usd": 50679577
+  },
+  {
+    "deal_id": "451273c1-9979-4af1-969b-99f317731f78",
+    "continent": "Africa",
+    "announced": "2025-06-14T05:08:22.751Z",
+    "valuation_usd": 2052569
+  },
+  {
+    "deal_id": "6b53ad8f-8c94-46b4-aac0-5f9a347a9a46",
+    "continent": "Asia",
+    "announced": "2024-08-29T08:48:54.699Z",
+    "val_usd": 7051344
+  },
+  {
+    "deal_id": "3557e8ab-df7d-42c1-b689-853d04e45222",
+    "continent": "Africa",
+    "announced": "2024-11-02T02:24:46.324Z",
+    "val_usd": 35937525
+  },
+  {
+    "deal_id": "6d4223b1-fa36-4823-a0e4-91102a55977a",
+    "continent": "NA",
+    "announced": "2025-03-27T05:00:44.302Z",
+    "val_usd": 75001607
+  },
+  {
+    "deal_id": "7c8fe872-f218-4779-ad0a-9549e4155593",
+    "continent": "Oceania",
+    "announced": "2024-10-14T09:10:40.480Z",
+    "valuation_usd": 38647591
+  },
+  {
+    "deal_id": "76ffcc6d-ccdf-4fa1-a649-00967c926b8a",
+    "continent": "Asia",
+    "announced": "2025-02-24T22:54:56.491Z",
+    "price": 50606052
+  },
+  {
+    "deal_id": "0bc6395d-405b-407d-85da-a7b1844fe570",
+    "continent": "Europe",
+    "announced": "2025-05-25T20:02:39.746Z",
+    "price": 78870140
+  },
+  {
+    "deal_id": "aaa0e008-5fa4-412b-9f70-c628aa7cab1f",
+    "continent": "Oceania",
+    "announced": "2025-04-21T22:32:44.780Z",
+    "val_usd": 40994550
+  },
+  {
+    "deal_id": "f59f5e34-0f51-4dd7-a772-519d4b30cc04",
+    "continent": "SA",
+    "announced": "2024-09-01T17:04:14.626Z",
+    "valuation_usd": 5434935
+  },
+  {
+    "deal_id": "1bae0b4b-65a6-4ff4-bec3-cf72ce4bfbf3",
+    "continent": "Oceania",
+    "announced": "2025-04-08T06:10:47.834Z",
+    "val_usd": 26550778
+  },
+  {
+    "deal_id": "8813d575-5d2f-4e88-b8f1-614b464e88bc",
+    "continent": "Asia",
+    "announced": "2025-03-06T23:08:53.777Z",
+    "valuation_usd": 54533164
+  },
+  {
+    "deal_id": "291517bf-9341-406e-a980-ff938309bc89",
+    "continent": "Europe",
+    "announced": "2024-07-08T15:39:16.258Z",
+    "price": 18274610
+  },
+  {
+    "deal_id": "5823f7d9-aee7-4bba-baf8-da0a2e7d85f8",
+    "continent": "Asia",
+    "announced": "2024-08-11T20:07:16.679Z",
+    "valuation_usd": 49830849
+  },
+  {
+    "deal_id": "61401ce3-d7bd-4c3f-9155-f849fd63ac97",
+    "continent": "Asia",
+    "announced": "2025-05-30T08:41:44.125Z",
+    "price": 43271024
+  },
+  {
+    "deal_id": "c0a8fc74-299f-4f98-901f-240d7a5bc07e",
+    "continent": "Europe",
+    "announced": "2025-01-29T23:29:37.484Z",
+    "price": 80944293
+  },
+  {
+    "deal_id": "6aa0c140-1986-4c51-a4cd-ec4b0a9dfa69",
+    "continent": "Oceania",
+    "announced": "2025-02-19T17:39:53.354Z",
+    "valuation_usd": 16082159
+  },
+  {
+    "deal_id": "a4ea7d09-8140-4019-be27-dc000049f249",
+    "continent": "NA",
+    "announced": "2024-07-09T02:51:56.093Z",
+    "val_usd": 89052842
+  },
+  {
+    "deal_id": "033887e4-c313-4c18-acbb-bba3f7210545",
+    "continent": "NA",
+    "announced": "2025-02-27T10:39:46.122Z",
+    "valuation_usd": 92334105
+  },
+  {
+    "deal_id": "4090437f-f908-49e5-8a67-2d123e1984ee",
+    "continent": "Asia",
+    "announced": "2025-01-19T17:59:26.621Z",
+    "valuation_usd": 3003603
+  },
+  {
+    "deal_id": "78f6c004-7bf5-420a-9c73-ea2a9f6864cb",
+    "continent": "Oceania",
+    "announced": "2024-11-21T02:41:44.837Z",
+    "price": 56948638
+  },
+  {
+    "deal_id": "cfc62322-8a74-428b-9852-27a9c84b85a7",
+    "continent": "Europe",
+    "announced": "2024-06-24T17:20:56.602Z",
+    "val_usd": 47523845
+  },
+  {
+    "deal_id": "c8e2623c-ae42-4391-810c-6f8cf7345e6c",
+    "continent": "Europe",
+    "announced": "2025-03-11T15:30:21.045Z",
+    "price": 94809239
+  },
+  {
+    "deal_id": "e0b84669-84c3-44dd-86cc-376188446b89",
+    "continent": "Asia",
+    "announced": "2024-10-07T19:30:54.669Z",
+    "val_usd": 22369660
+  },
+  {
+    "deal_id": "f5d2dc0f-c137-4c78-b13e-362afabdd306",
+    "continent": "NA",
+    "announced": "2025-06-11T22:19:20.041Z",
+    "val_usd": 10739095
+  },
+  {
+    "deal_id": "9bbcd036-a15e-48af-b2bf-724edb055975",
+    "continent": "Asia",
+    "announced": "2024-11-08T20:13:52.440Z",
+    "val_usd": 74545089
+  },
+  {
+    "deal_id": "b07d8ae1-2998-4c18-a439-aa96887d4f1a",
+    "continent": "Africa",
+    "announced": "2024-10-24T14:27:01.137Z",
+    "valuation_usd": 20195088
+  },
+  {
+    "deal_id": "c3535a29-d222-447b-9d42-47fea48856e9",
+    "continent": "Africa",
+    "announced": "2024-12-17T03:28:56.077Z",
+    "val_usd": 44172593
+  },
+  {
+    "deal_id": "2fbfeeed-c903-4061-81c4-e7c3191f1ce9",
+    "continent": "Asia",
+    "announced": "2024-08-18T12:34:00.313Z",
+    "price": 68080372
+  },
+  {
+    "deal_id": "5685e75c-a983-40a6-a8f9-e7af753ef64d",
+    "continent": "Oceania",
+    "announced": "2024-09-09T17:35:43.094Z",
+    "price": 11374102
+  },
+  {
+    "deal_id": "1d73310b-2c98-4866-87d4-9725486a736e",
+    "continent": "SA",
+    "announced": "2025-04-05T13:43:58.600Z",
+    "price": 69998076
+  },
+  {
+    "deal_id": "ca656a10-7d82-4665-a242-73ede5ec36aa",
+    "continent": "Asia",
+    "announced": "2024-08-19T20:57:04.398Z",
+    "price": 46942348
+  },
+  {
+    "deal_id": "5dab274f-002f-45bf-adae-964ffc38dfe6",
+    "continent": "Oceania",
+    "announced": "2025-04-09T14:59:13.311Z",
+    "valuation_usd": 44747322
+  },
+  {
+    "deal_id": "f0814ea0-8f88-43b0-90c1-ff5d6ee8a438",
+    "continent": "Europe",
+    "announced": "2025-05-19T06:20:43.134Z",
+    "val_usd": 13301235
+  },
+  {
+    "deal_id": "65c9726d-cc21-4732-a107-f2324ec70fd8",
+    "continent": "Oceania",
+    "announced": "2025-05-20T23:43:05.224Z",
+    "val_usd": 93887854
+  },
+  {
+    "deal_id": "9967a640-f9cd-4944-b961-fbd2816c8b6a",
+    "continent": "SA",
+    "announced": "2025-05-29T10:58:16.209Z",
+    "price": 34285926
+  },
+  {
+    "deal_id": "b0a66480-972a-4b55-9c71-678d8d0b1f42",
+    "continent": "SA",
+    "announced": "2024-05-29T18:18:09.810Z",
+    "val_usd": 2612103
+  },
+  {
+    "deal_id": "0f955444-394f-49a1-8d3f-4da9261a5a93",
+    "continent": "Europe",
+    "announced": "2025-06-09T11:26:14.375Z",
+    "val_usd": 16179059
+  },
+  {
+    "deal_id": "be6c1f8f-f9d8-484f-b383-b2147362941a",
+    "continent": "NA",
+    "announced": "2025-02-02T12:46:19.559Z",
+    "val_usd": 22520167
+  },
+  {
+    "deal_id": "703b2b6a-ade3-4729-bec3-b8aafd2c1d2c",
+    "continent": "Africa",
+    "announced": "2024-08-03T17:38:34.709Z",
+    "val_usd": 15876773
+  },
+  {
+    "deal_id": "2dbf4eb3-e6d1-4b03-bb55-6cccf1f6d225",
+    "continent": "Asia",
+    "announced": "2024-11-28T17:07:23.129Z",
+    "valuation_usd": 93368155
+  },
+  {
+    "deal_id": "feb9ec33-dfe9-496c-be29-8e2fe305ed15",
+    "continent": "Africa",
+    "announced": "2025-02-17T22:36:03.632Z",
+    "valuation_usd": 36227242
+  },
+  {
+    "deal_id": "b3a2144b-4feb-44d7-8b0b-d96adb163636",
+    "continent": "Asia",
+    "announced": "2024-11-29T05:11:22.313Z",
+    "valuation_usd": 56035965
+  },
+  {
+    "deal_id": "508c9c04-14a9-4030-a90f-b33691f4a024",
+    "continent": "NA",
+    "announced": "2025-03-17T19:55:58.724Z",
+    "valuation_usd": 53339733
+  },
+  {
+    "deal_id": "07446daa-55ca-47d9-87c9-67fadbd79034",
+    "continent": "Europe",
+    "announced": "2024-09-20T13:53:09.803Z",
+    "val_usd": 83173136
+  },
+  {
+    "deal_id": "ca109097-b4da-4308-b3f7-077ca8a061ff",
+    "continent": "NA",
+    "announced": "2024-12-20T07:51:05.759Z",
+    "valuation_usd": 82156988
+  },
+  {
+    "deal_id": "04903803-75ea-48eb-9626-a6decf27b4ce",
+    "continent": "Africa",
+    "announced": "2024-11-17T10:07:46.976Z",
+    "price": 67649462
+  },
+  {
+    "deal_id": "e6e88457-6a84-450a-949c-8129f77cf09c",
+    "continent": "NA",
+    "announced": "2025-06-03T17:46:52.219Z",
+    "price": 2999255
+  },
+  {
+    "deal_id": "01076742-4717-42fd-afba-2225385f3aa7",
+    "continent": "Europe",
+    "announced": "2025-05-31T21:29:44.267Z",
+    "price": 43508068
+  },
+  {
+    "deal_id": "2b2cb171-0009-45fb-9bd0-8ed85b9d6048",
+    "continent": "NA",
+    "announced": "2025-03-01T21:47:16.602Z",
+    "val_usd": 1553099
+  },
+  {
+    "deal_id": "bf338a54-77d1-4c15-b9bd-7da2461574f6",
+    "continent": "Asia",
+    "announced": "2025-06-02T08:37:11.657Z",
+    "price": 73957534
+  },
+  {
+    "deal_id": "75928643-d974-47b2-97db-8bb7086673fe",
+    "continent": "SA",
+    "announced": "2024-12-11T21:51:30.913Z",
+    "valuation_usd": 71344328
+  },
+  {
+    "deal_id": "d5c39dc2-b7e2-43d1-b0c1-f4e24ce72e54",
+    "continent": "NA",
+    "announced": "2024-12-06T01:37:36.692Z",
+    "valuation_usd": 75936075
+  },
+  {
+    "deal_id": "f5d58709-f9fb-41e3-8f81-1a83931b4590",
+    "continent": "Oceania",
+    "announced": "2024-08-18T23:55:59.328Z",
+    "valuation_usd": 35774972
+  },
+  {
+    "deal_id": "f9f90f20-a073-4306-b7cd-d1fcc2f559da",
+    "continent": "SA",
+    "announced": "2024-07-19T23:42:50.212Z",
+    "val_usd": 72824703
+  },
+  {
+    "deal_id": "513f7ed3-b085-4fba-b6c9-7e3c5101c084",
+    "continent": "Europe",
+    "announced": "2024-10-05T14:09:40.713Z",
+    "price": 18204061
+  },
+  {
+    "deal_id": "38b8e3bf-2587-464e-b088-b9c1d00fb98c",
+    "continent": "Europe",
+    "announced": "2025-05-24T13:49:29.474Z",
+    "price": 34455868
+  },
+  {
+    "deal_id": "6d9f7423-430d-4d6f-9daf-5a1da00386f2",
+    "continent": "Africa",
+    "announced": "2024-09-24T15:27:12.854Z",
+    "valuation_usd": 41648572
+  },
+  {
+    "deal_id": "4c17ffde-d4d6-443b-9517-e36b90cb3bd6",
+    "continent": "SA",
+    "announced": "2025-03-26T22:51:14.842Z",
+    "price": 54874107
+  },
+  {
+    "deal_id": "0f7264e1-bd07-4cd4-b1f8-aa584e424160",
+    "continent": "Oceania",
+    "announced": "2024-09-26T15:09:09.029Z",
+    "val_usd": 41935676
+  },
+  {
+    "deal_id": "63a3b406-9031-416f-b428-1be2ad06c2c2",
+    "continent": "Oceania",
+    "announced": "2025-05-15T03:54:40.472Z",
+    "valuation_usd": 48919580
+  },
+  {
+    "deal_id": "535cf291-1214-4f58-898d-ea404482d904",
+    "continent": "Asia",
+    "announced": "2025-04-20T22:19:50.740Z",
+    "price": 41307190
+  },
+  {
+    "deal_id": "8a8b13d2-0e20-4d5a-98a6-5329cf06e4e5",
+    "continent": "Asia",
+    "announced": "2025-04-13T14:15:58.751Z",
+    "price": 57705872
+  },
+  {
+    "deal_id": "ebc35852-dae6-45c1-811a-184acab72e55",
+    "continent": "Asia",
+    "announced": "2024-08-16T15:19:34.693Z",
+    "valuation_usd": 64325641
+  },
+  {
+    "deal_id": "6cb19128-2b3a-4c62-af1f-bb281f312a35",
+    "continent": "Europe",
+    "announced": "2025-02-12T02:05:20.831Z",
+    "price": 59780935
+  },
+  {
+    "deal_id": "e6bc40b5-b272-464a-ba0d-5d8260b0b199",
+    "continent": "Oceania",
+    "announced": "2024-08-24T20:17:05.345Z",
+    "val_usd": 25694106
+  },
+  {
+    "deal_id": "6cd7b3f3-443d-4899-a64d-1061aae5ac32",
+    "continent": "NA",
+    "announced": "2024-10-14T00:03:49.846Z",
+    "valuation_usd": 14544552
+  },
+  {
+    "deal_id": "a54fbc22-b1ac-4ad7-a0af-7304eab130ca",
+    "continent": "SA",
+    "announced": "2025-03-28T00:19:17.573Z",
+    "price": 48070654
+  },
+  {
+    "deal_id": "8c638e18-553c-48a7-9e31-930c14d55e1e",
+    "continent": "Asia",
+    "announced": "2025-04-15T04:38:51.661Z",
+    "val_usd": 88066683
+  },
+  {
+    "deal_id": "b51924ae-35d3-43b6-b5d7-d11da3c731e7",
+    "continent": "Asia",
+    "announced": "2024-11-05T14:26:04.689Z",
+    "price": 34224450
+  },
+  {
+    "deal_id": "0dfa0c97-0e40-487e-8cc6-7fab6b76e0b3",
+    "continent": "Europe",
+    "announced": "2025-04-17T18:41:11.419Z",
+    "val_usd": 19227155
+  },
+  {
+    "deal_id": "7d6acc72-3697-4fd4-a182-ffdc0695e9d4",
+    "continent": "Asia",
+    "announced": "2025-06-13T10:26:29.013Z",
+    "valuation_usd": 76185723
+  },
+  {
+    "deal_id": "49b9f235-4b63-436d-9f01-fb6b0f1dc14e",
+    "continent": "SA",
+    "announced": "2024-12-04T06:51:19.309Z",
+    "valuation_usd": 45135094
+  },
+  {
+    "deal_id": "e90b95be-fa79-4607-9886-5216367470aa",
+    "continent": "SA",
+    "announced": "2024-09-19T22:56:42.663Z",
+    "val_usd": 91564205
+  },
+  {
+    "deal_id": "c90f9d4e-91a4-48e4-81e1-ed8ceba02f93",
+    "continent": "Asia",
+    "announced": "2025-06-08T04:50:26.213Z",
+    "val_usd": 91840863
+  },
+  {
+    "deal_id": "d5a849e3-de4b-4094-8b48-41b4a6ce8f6e",
+    "continent": "NA",
+    "announced": "2024-07-23T17:33:12.622Z",
+    "valuation_usd": 1660467
+  },
+  {
+    "deal_id": "178c04ef-7ddf-48ff-bd07-2ea99a9cd503",
+    "continent": "SA",
+    "announced": "2024-06-30T03:11:03.964Z",
+    "valuation_usd": 80860635
+  },
+  {
+    "deal_id": "80172b74-43b1-4ed9-9494-dbcbe5dc8bb4",
+    "continent": "Africa",
+    "announced": "2025-03-06T01:32:23.218Z",
+    "valuation_usd": 13729872
+  },
+  {
+    "deal_id": "5d6daa2e-2388-4485-9161-09a58420ab36",
+    "continent": "Oceania",
+    "announced": "2024-10-04T06:47:05.032Z",
+    "price": 39822495
+  },
+  {
+    "deal_id": "d35bda0a-8e13-4e81-8918-3ad026050230",
+    "continent": "Europe",
+    "announced": "2025-03-08T10:25:54.670Z",
+    "val_usd": 50527554
+  },
+  {
+    "deal_id": "5aaf20ef-a9ab-424a-a28b-653abe301f5a",
+    "continent": "NA",
+    "announced": "2024-09-13T10:29:13.200Z",
+    "valuation_usd": 2024405
+  },
+  {
+    "deal_id": "5feec8f8-36e3-4dba-8b12-72420beee0f6",
+    "continent": "Asia",
+    "announced": "2025-03-22T01:24:29.647Z",
+    "valuation_usd": 30343988
+  },
+  {
+    "deal_id": "8e094aff-f6eb-4c7b-a0e9-a25bd89ed2b7",
+    "continent": "Africa",
+    "announced": "2025-03-17T00:14:31.483Z",
+    "valuation_usd": 36632504
+  },
+  {
+    "deal_id": "6155d969-8eca-425a-ad84-75f157c831f6",
+    "continent": "Africa",
+    "announced": "2024-10-20T06:00:00.661Z",
+    "val_usd": 50698061
+  },
+  {
+    "deal_id": "43892d2e-a05b-4ec9-89b0-d507117f889c",
+    "continent": "NA",
+    "announced": "2025-05-28T22:21:28.162Z",
+    "valuation_usd": 7375915
+  },
+  {
+    "deal_id": "0540be32-1dee-44dd-91d2-07bcb2961d15",
+    "continent": "Africa",
+    "announced": "2025-03-05T02:30:01.452Z",
+    "valuation_usd": 87603313
+  },
+  {
+    "deal_id": "88715b2b-86a8-4688-8869-90ebe1b89e7b",
+    "continent": "Europe",
+    "announced": "2025-01-14T08:49:58.401Z",
+    "price": 91248176
+  },
+  {
+    "deal_id": "8fcba1e8-ac63-4127-987d-064491f19822",
+    "continent": "Europe",
+    "announced": "2025-04-20T16:55:24.456Z",
+    "price": 59647950
+  },
+  {
+    "deal_id": "a0f8b374-0b9a-4e17-b0ec-8baf08483a49",
+    "continent": "Europe",
+    "announced": "2024-12-18T10:57:21.197Z",
+    "valuation_usd": 69793265
+  },
+  {
+    "deal_id": "3e0553d3-47ae-4d61-b3d7-29a0eb3a9baf",
+    "continent": "Oceania",
+    "announced": "2024-07-02T01:17:43.288Z",
+    "val_usd": 94074640
+  },
+  {
+    "deal_id": "701c2606-e280-4ac9-a088-f9916b66601a",
+    "continent": "SA",
+    "announced": "2024-07-03T20:29:15.975Z",
+    "valuation_usd": 74482895
+  },
+  {
+    "deal_id": "ed838ee5-5c9b-4d50-9c5b-0b924834c3ac",
+    "continent": "Oceania",
+    "announced": "2024-12-20T05:04:57.234Z",
+    "price": 36866479
+  },
+  {
+    "deal_id": "fcb04472-0ce5-4edb-8c3c-9b3ebf284931",
+    "continent": "Asia",
+    "announced": "2024-11-26T15:12:21.425Z",
+    "val_usd": 66394398
+  },
+  {
+    "deal_id": "bccab36f-c4de-4a42-b90e-79d52c1a2f6d",
+    "continent": "Europe",
+    "announced": "2025-05-25T22:59:40.278Z",
+    "valuation_usd": 28245238
+  },
+  {
+    "deal_id": "b01dbbd8-175d-40c7-a914-7788d6235eb3",
+    "continent": "Asia",
+    "announced": "2024-09-08T00:29:41.048Z",
+    "valuation_usd": 75090403
+  },
+  {
+    "deal_id": "e79bed2a-32ad-4389-9336-02dfd23cc40d",
+    "continent": "SA",
+    "announced": "2024-09-17T15:27:12.089Z",
+    "valuation_usd": 37289813
+  },
+  {
+    "deal_id": "d8da64eb-0136-45ed-910f-2af41398e844",
+    "continent": "Africa",
+    "announced": "2024-08-27T22:23:11.709Z",
+    "valuation_usd": 90965795
+  },
+  {
+    "deal_id": "715905b8-416b-462d-8d15-ab253acda0ca",
+    "continent": "Oceania",
+    "announced": "2025-05-27T11:32:19.146Z",
+    "val_usd": 7658519
+  },
+  {
+    "deal_id": "fda9adcc-82cd-486d-ba23-d6a429fb2c90",
+    "continent": "Asia",
+    "announced": "2025-02-27T17:03:19.862Z",
+    "price": 95694813
+  },
+  {
+    "deal_id": "610eb109-28a7-4871-9a8e-7ad67b1856c5",
+    "continent": "NA",
+    "announced": "2024-07-22T20:03:35.472Z",
+    "val_usd": 17843681
+  },
+  {
+    "deal_id": "d751372a-1ddf-4623-8eeb-2c6f66078b55",
+    "continent": "SA",
+    "announced": "2024-05-15T20:54:11.222Z",
+    "val_usd": 74866029
+  },
+  {
+    "deal_id": "0af61b75-ddf4-4935-b21e-a06c738367e3",
+    "continent": "Oceania",
+    "announced": "2024-10-20T22:51:54.603Z",
+    "valuation_usd": 74149958
+  },
+  {
+    "deal_id": "aacce85b-5b94-4a10-ad55-a2464ac6d035",
+    "continent": "NA",
+    "announced": "2025-03-06T05:02:23.986Z",
+    "valuation_usd": 99839372
+  },
+  {
+    "deal_id": "817cc9c0-0a59-4e91-ba67-213de84cd947",
+    "continent": "Europe",
+    "announced": "2025-03-19T21:15:57.703Z",
+    "valuation_usd": 17110117
+  },
+  {
+    "deal_id": "5c095457-9b47-4ee5-9c3d-e39d07d369ba",
+    "continent": "Europe",
+    "announced": "2025-02-07T07:23:59.011Z",
+    "price": 74170621
+  },
+  {
+    "deal_id": "feac37e0-8f53-4438-a30c-388b80d9c820",
+    "continent": "Europe",
+    "announced": "2024-09-12T07:36:15.638Z",
+    "valuation_usd": 6833397
+  },
+  {
+    "deal_id": "10741ff3-dfaa-4186-9df1-e78bb5960374",
+    "continent": "SA",
+    "announced": "2024-06-20T15:04:10.434Z",
+    "valuation_usd": 44047895
+  },
+  {
+    "deal_id": "225684c0-a3cc-474d-bcab-f9decc4bef87",
+    "continent": "Europe",
+    "announced": "2025-02-27T12:21:13.846Z",
+    "price": 83357291
+  },
+  {
+    "deal_id": "946c09be-0217-49b0-be76-0748b857e8f6",
+    "continent": "Europe",
+    "announced": "2024-06-01T17:49:17.202Z",
+    "valuation_usd": 7841092
+  },
+  {
+    "deal_id": "2739be6f-695c-4c29-99bb-8ec0b2afbd0c",
+    "continent": "Oceania",
+    "announced": "2024-06-17T05:43:11.111Z",
+    "valuation_usd": 14204619
+  },
+  {
+    "deal_id": "9ef7e64b-443d-4501-be4e-9321495d0ed3",
+    "continent": "Europe",
+    "announced": "2024-11-18T21:13:51.941Z",
+    "valuation_usd": 51200992
+  },
+  {
+    "deal_id": "6a5071f1-17ce-45ce-8ca6-fe968e9bb4e4",
+    "continent": "SA",
+    "announced": "2024-12-17T06:10:30.680Z",
+    "val_usd": 21378923
+  },
+  {
+    "deal_id": "087ed28b-342d-4ee9-80a7-67e40abe173b",
+    "continent": "Oceania",
+    "announced": "2025-01-28T00:39:08.249Z",
+    "valuation_usd": 25314452
+  },
+  {
+    "deal_id": "0ced5b86-aea5-40f8-90ef-aaef1fe3f0db",
+    "continent": "Oceania",
+    "announced": "2024-12-18T16:35:06.020Z",
+    "valuation_usd": 66100380
+  },
+  {
+    "deal_id": "5d7f6c38-8ccf-41aa-9c1f-894d28749b00",
+    "continent": "Africa",
+    "announced": "2025-03-21T13:06:25.214Z",
+    "val_usd": 98942787
+  },
+  {
+    "deal_id": "ef03fc25-a66c-4283-bdd1-d8a126ce5466",
+    "continent": "SA",
+    "announced": "2024-06-30T21:16:17.539Z",
+    "val_usd": 37434111
+  },
+  {
+    "deal_id": "8d876a1f-57b5-4d20-9db9-a68db207ba62",
+    "continent": "NA",
+    "announced": "2025-01-10T12:10:39.949Z",
+    "valuation_usd": 94487323
+  },
+  {
+    "deal_id": "78cd4cd6-880b-4543-8424-e46823c80349",
+    "continent": "Oceania",
+    "announced": "2025-02-01T01:33:28.508Z",
+    "valuation_usd": 38749725
+  },
+  {
+    "deal_id": "668e509b-a429-49b6-b43d-8edea4cbee59",
+    "continent": "Europe",
+    "announced": "2024-11-26T08:59:14.392Z",
+    "valuation_usd": 75633430
+  },
+  {
+    "deal_id": "fa221f69-aa11-4efd-820a-928efe2cf014",
+    "continent": "SA",
+    "announced": "2024-07-04T18:36:42.297Z",
+    "price": 73608225
+  },
+  {
+    "deal_id": "a67d945c-a491-4b01-9bd5-3dce9745670f",
+    "continent": "Oceania",
+    "announced": "2025-03-14T05:14:15.837Z",
+    "price": 29827970
+  },
+  {
+    "deal_id": "928a2594-c4f5-4f5d-aca9-5b26e7c2fa3e",
+    "continent": "Oceania",
+    "announced": "2024-05-19T05:33:36.976Z",
+    "val_usd": 11381612
+  },
+  {
+    "deal_id": "59d0b1b0-02c1-4905-81b0-125b8f473113",
+    "continent": "Oceania",
+    "announced": "2024-08-14T15:27:46.029Z",
+    "val_usd": 7560971
+  },
+  {
+    "deal_id": "4aa5a4ea-eca2-41aa-8d45-757c0b556d2a",
+    "continent": "Asia",
+    "announced": "2024-11-24T10:28:25.759Z",
+    "valuation_usd": 91291948
+  },
+  {
+    "deal_id": "bd009faa-24ed-43d0-af5c-c2010ad80673",
+    "continent": "Asia",
+    "announced": "2024-08-19T23:04:07.017Z",
+    "val_usd": 74097600
+  },
+  {
+    "deal_id": "9b8e5038-dd94-41f6-9d2c-f25d3b857330",
+    "continent": "Africa",
+    "announced": "2025-04-22T10:07:30.837Z",
+    "val_usd": 30116217
+  },
+  {
+    "deal_id": "fdc8b42a-6777-4838-86c6-d17da38c6d67",
+    "continent": "Africa",
+    "announced": "2024-10-13T23:59:00.207Z",
+    "valuation_usd": 35390589
+  },
+  {
+    "deal_id": "7effd00f-c9c4-40cd-b0d0-8f9ddd1ce196",
+    "continent": "Asia",
+    "announced": "2025-02-16T06:18:34.273Z",
+    "val_usd": 72873685
+  },
+  {
+    "deal_id": "c1b245b1-9248-43e7-bbf9-045409f6d02e",
+    "continent": "Africa",
+    "announced": "2025-06-15T05:44:40.052Z",
+    "val_usd": 14085621
+  },
+  {
+    "deal_id": "363711d9-5816-4b79-b6b6-7e089df8c026",
+    "continent": "NA",
+    "announced": "2025-01-30T10:42:48.720Z",
+    "val_usd": 44810810
+  },
+  {
+    "deal_id": "f57ab1bd-ae70-4da6-9a50-e794a448e899",
+    "continent": "Europe",
+    "announced": "2024-08-07T17:13:22.858Z",
+    "valuation_usd": 63717988
+  },
+  {
+    "deal_id": "ca4ea70e-481a-4385-9efc-d434d1844586",
+    "continent": "Africa",
+    "announced": "2025-03-08T05:18:15.527Z",
+    "valuation_usd": 97534473
+  },
+  {
+    "deal_id": "dfa8a656-6034-4671-bda4-a7ca6e34b5a9",
+    "continent": "Asia",
+    "announced": "2024-12-29T21:25:06.635Z",
+    "price": 25655927
+  },
+  {
+    "deal_id": "4f03aef0-a6ab-41be-a356-4a6840892767",
+    "continent": "NA",
+    "announced": "2025-04-04T08:51:52.551Z",
+    "price": 39179507
+  },
+  {
+    "deal_id": "7228a87c-fc7c-4a32-9c0b-e4b026f4917e",
+    "continent": "Oceania",
+    "announced": "2024-11-05T08:18:56.106Z",
+    "val_usd": 96884601
+  },
+  {
+    "deal_id": "5fdfc23b-da2c-4791-a6e1-0f3200592a23",
+    "continent": "Asia",
+    "announced": "2025-02-18T21:50:28.163Z",
+    "valuation_usd": 36291245
+  },
+  {
+    "deal_id": "6c08b828-7dc5-4a7d-8aaa-f3ec62c3a995",
+    "continent": "Asia",
+    "announced": "2024-10-19T14:21:49.793Z",
+    "val_usd": 45005074
+  },
+  {
+    "deal_id": "b2201d48-2fa6-47e6-b409-abe988d2e949",
+    "continent": "Asia",
+    "announced": "2024-05-29T21:39:00.295Z",
+    "price": 9949297
+  },
+  {
+    "deal_id": "5b733d17-3768-464a-9c7a-170d5da1a6f2",
+    "continent": "Oceania",
+    "announced": "2025-03-14T04:26:45.092Z",
+    "valuation_usd": 93453150
+  },
+  {
+    "deal_id": "d162ee72-b9b9-4ff4-9fd8-7e501fe8d58c",
+    "continent": "Oceania",
+    "announced": "2024-12-09T12:15:00.306Z",
+    "price": 49060975
+  },
+  {
+    "deal_id": "8910d7ea-1d5b-4545-817e-9d36dbdc82eb",
+    "continent": "NA",
+    "announced": "2024-07-20T23:44:53.811Z",
+    "val_usd": 93425244
+  },
+  {
+    "deal_id": "eedfc457-e136-4d09-9997-9d664686ceb0",
+    "continent": "Europe",
+    "announced": "2024-05-20T23:11:06.035Z",
+    "val_usd": 14287241
+  },
+  {
+    "deal_id": "700b3296-39f2-4589-9c78-fd15d74fa4f5",
+    "continent": "Asia",
+    "announced": "2024-08-07T08:34:46.365Z",
+    "valuation_usd": 50640077
+  },
+  {
+    "deal_id": "051b0f13-8f87-4fc9-8fd8-f6e2d54fb38a",
+    "continent": "SA",
+    "announced": "2024-09-23T09:27:01.390Z",
+    "val_usd": 42758998
+  },
+  {
+    "deal_id": "039af0fb-e545-44b1-87f2-5b2a454c8774",
+    "continent": "Oceania",
+    "announced": "2024-05-21T10:51:30.619Z",
+    "val_usd": 84781108
+  },
+  {
+    "deal_id": "f2240f7b-acbb-438e-832a-f272ba320b61",
+    "continent": "Africa",
+    "announced": "2024-10-18T19:04:32.542Z",
+    "price": 26785412
+  },
+  {
+    "deal_id": "4532c4cb-ae60-49c2-8022-dae91e013561",
+    "continent": "Asia",
+    "announced": "2025-01-13T07:06:05.735Z",
+    "val_usd": 67197770
+  },
+  {
+    "deal_id": "bce059e3-1dc1-4baf-9c8a-9728da471387",
+    "continent": "SA",
+    "announced": "2025-02-10T22:58:03.249Z",
+    "price": 14280926
+  },
+  {
+    "deal_id": "ed2e1aeb-bd74-4481-b7a8-c2a40b2225a0",
+    "continent": "Oceania",
+    "announced": "2024-11-18T06:23:30.427Z",
+    "valuation_usd": 87558702
+  },
+  {
+    "deal_id": "4b813cee-c75b-4c9d-b68d-c7e8604613e6",
+    "continent": "Africa",
+    "announced": "2025-05-29T13:34:28.410Z",
+    "valuation_usd": 66260028
+  },
+  {
+    "deal_id": "d3b2dd46-5f30-4de7-aeda-cf15e93acc27",
+    "continent": "NA",
+    "announced": "2024-08-17T23:17:42.375Z",
+    "valuation_usd": 24221578
+  },
+  {
+    "deal_id": "d56c45e8-166b-409a-85f4-cf42eb6cd8f4",
+    "continent": "NA",
+    "announced": "2024-10-06T03:44:54.914Z",
+    "price": 30655373
+  },
+  {
+    "deal_id": "7aa334fc-c2d2-4267-9322-494a26d5c61c",
+    "continent": "Europe",
+    "announced": "2025-06-05T23:05:14.647Z",
+    "price": 73040687
+  },
+  {
+    "deal_id": "4a7ff59f-bf28-4843-9c4d-362f2318c482",
+    "continent": "Europe",
+    "announced": "2025-05-03T14:05:09.655Z",
+    "val_usd": 51167704
+  },
+  {
+    "deal_id": "6ea52ee4-c7b0-444d-b10d-1fd648ac5d07",
+    "continent": "Europe",
+    "announced": "2024-06-18T03:11:49.270Z",
+    "val_usd": 98658775
+  },
+  {
+    "deal_id": "f375f8b9-c122-4fae-8ba5-5cb72094476a",
+    "continent": "Europe",
+    "announced": "2025-01-02T05:16:11.211Z",
+    "price": 69036849
+  },
+  {
+    "deal_id": "a0e5d3d1-0d57-4186-a81d-ee2effe72892",
+    "continent": "SA",
+    "announced": "2025-01-02T06:21:13.687Z",
+    "val_usd": 59385237
+  },
+  {
+    "deal_id": "4f022728-d50c-4691-8191-2204d4f01d55",
+    "continent": "Oceania",
+    "announced": "2025-02-24T20:07:12.534Z",
+    "val_usd": 48969926
+  },
+  {
+    "deal_id": "a6a06e07-679d-4859-9d56-3ea7907c8ea3",
+    "continent": "SA",
+    "announced": "2024-08-08T03:21:48.512Z",
+    "valuation_usd": 36862836
+  },
+  {
+    "deal_id": "e0dc43be-670c-456c-8143-6dff7c838a4b",
+    "continent": "Asia",
+    "announced": "2025-01-27T10:02:42.142Z",
+    "price": 54655062
+  },
+  {
+    "deal_id": "c95cf55a-401d-4566-b130-a316b2519465",
+    "continent": "NA",
+    "announced": "2024-08-10T19:44:59.655Z",
+    "price": 11270394
+  },
+  {
+    "deal_id": "db261210-1a02-4980-9df2-1f2342610f09",
+    "continent": "SA",
+    "announced": "2024-07-06T01:10:41.867Z",
+    "val_usd": 34315856
+  },
+  {
+    "deal_id": "693108af-8bf4-41cd-a8f4-7d2f33e07633",
+    "continent": "SA",
+    "announced": "2024-07-04T07:41:56.133Z",
+    "price": 71119464
+  },
+  {
+    "deal_id": "6bc69e40-51ec-4b07-a026-a0208512c3cf",
+    "continent": "Oceania",
+    "announced": "2024-12-26T07:35:36.271Z",
+    "valuation_usd": 85747537
+  },
+  {
+    "deal_id": "4b903f66-03da-4587-a18b-ac2f490ce28f",
+    "continent": "SA",
+    "announced": "2024-12-28T19:28:48.259Z",
+    "price": 35122881
+  },
+  {
+    "deal_id": "525d2217-204b-49f6-bded-cdbebdfb4cb3",
+    "continent": "Europe",
+    "announced": "2025-05-21T08:06:42.841Z",
+    "val_usd": 81126480
+  },
+  {
+    "deal_id": "9d125313-81ab-400e-9d4b-8e38173a5dc9",
+    "continent": "Europe",
+    "announced": "2025-04-01T04:23:34.012Z",
+    "price": 62953106
+  },
+  {
+    "deal_id": "91e5405e-24a5-4515-bb84-cc8aacb2d5f5",
+    "continent": "Europe",
+    "announced": "2025-02-10T23:01:24.414Z",
+    "valuation_usd": 61214746
+  },
+  {
+    "deal_id": "47b77825-ebaa-4fa0-baf1-0f20284c7b81",
+    "continent": "Asia",
+    "announced": "2024-12-30T07:27:28.986Z",
+    "price": 18562715
+  },
+  {
+    "deal_id": "65bb9ddf-dd86-4dbd-a0a1-3ac25739da01",
+    "continent": "Africa",
+    "announced": "2025-02-22T06:56:36.861Z",
+    "price": 45361089
+  },
+  {
+    "deal_id": "f0991cb2-bb8c-49a6-9eed-550f51935cf0",
+    "continent": "Oceania",
+    "announced": "2024-12-18T07:31:03.947Z",
+    "valuation_usd": 8683782
+  },
+  {
+    "deal_id": "ec64a393-1a29-4d62-9070-c45db312a456",
+    "continent": "Europe",
+    "announced": "2024-09-22T09:19:14.955Z",
+    "valuation_usd": 14772863
+  },
+  {
+    "deal_id": "0e47081a-7339-4707-a5e3-d6a68477eda7",
+    "continent": "Africa",
+    "announced": "2024-07-03T14:44:53.900Z",
+    "val_usd": 17941342
+  },
+  {
+    "deal_id": "7a4f7893-d7bb-44b2-9505-833523988981",
+    "continent": "NA",
+    "announced": "2024-12-16T21:11:58.702Z",
+    "valuation_usd": 88165406
+  }
+]
