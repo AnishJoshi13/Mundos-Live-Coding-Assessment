@@ -10,10 +10,16 @@ their environment is ready before they write a single line of code.
 1  Problem statement
 -------------------------------------------------------------------
 
-Mundos needs a micro-dashboard called **Deal-Pulse** that ingests a
-JSON dump of early-stage “deals”, exposes two typed REST endpoints,
-and renders a single-page React UI that surfaces continent-level
-trends plus drill-down to individual deals.
+Design and implement a minimal full-stack dashboard that reads deal data from a JSON file, computes continent-level summaries, and allows drill-down into individual deals.
+
+Mundos tracks early-stage business deals worldwide.
+We want an internal tool — Deal-Pulse — that lets analysts:
+
+1. See a quick summary of deals by continent.
+
+2. Click on a continent to inspect individual deals.
+
+The backend will expose two endpoints; the frontend will show a single-page dashboard based on them.
 
 -------------------------------------------------------------------
 2  Objectives (what you must build in ≤ 60 min)
